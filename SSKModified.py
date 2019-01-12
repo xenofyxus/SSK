@@ -6,7 +6,7 @@ sys.setrecursionlimit(100000)
 
 n = 2
 lam = 0.7
-limit = 4
+limCoefficient = 0.5
 
 car = "car"
 cat = "cat"
@@ -23,15 +23,15 @@ class Ssk:
         limit = 1
         while(lam**limit > limCoefficient):
             limit += 1
-        self.limit = limit      #Limit represents th
+        self.limit = limit    
         self.lam = lam
 
-    def k(self, s, t, i, limit):
+    def k(self, s, t, i, tempLim):
 
         if (s, t, i) in self.dict1:
             return self.dict1[(s, t, i)]
             
-        if (i > len(s) or i > len(t) or limit == 0):
+        if (i > len(s) or i > len(t) or tempLim == self.limit):
             self.dict1[(s, t, 1)] = 0
             return 0
 
@@ -46,7 +46,7 @@ class Ssk:
         self.dict1[(s, t, i)] = value
         return value
 
-    def kP(self, s, t, i, limit):
+    def kP(self, s, t, i, tempLim):
 
         if (s, t, i) in self.dict2: 
             return self.dict2[(s, t, i)]
@@ -55,20 +55,20 @@ class Ssk:
             self.dict2[(s, t, i)] = 1
             return 1
 
-        if(len(s) < i or len(t) < i or limit == 0):
+        if(len(s) < i or len(t) < i or tempLim == self.limit):
             self.dict2[(s, t, i)] = 0
             return 0
 
-        value = self.lam * self.kP(s[:-1], t, i, limit) + self.kPP(s, t, i, limit)
+        value = self.lam * self.kP(s[:-1], t, i, tempLim+1) + self.kPP(s, t, i, tempLim)
         self.dict2[(s, t, i)] = value
         return value    
     
-    def kPP(self, s, t, i, limit):
+    def kPP(self, s, t, i, tempLim):
         
         if (s, t, i) in self.dict3:
             return self.dict3[(s, t, i)]
 
-        if(len(s) < i or len(t) < i or limit == 0):
+        if(len(s) < i or len(t) < i or tempLim == self.limit):
             self.dict3[(s, t, i)] = 0
             return 0
         
@@ -77,10 +77,9 @@ class Ssk:
         value = 0
         
         if (x == u):
-            value = self.lam * (self.kPP(s, t[:-1], i, limit) + self.lam*self.kP(s[:-1], t[:-1], i-1, limit))
+            value = self.lam * (self.kPP(s, t[:-1], i, 0) + self.lam*self.kP(s[:-1], t[:-1], i-1, tempLim+1))
         else:
-            value = self.lam * self.kPP(s, t[:-1], i, limit)
-
+            value = self.lam * self.kPP(s, t[:-1], i, 0)
         self.dict3[(s, t, i)] = value
         return value    
 
@@ -88,7 +87,7 @@ a = "science is organized life"
 b = "wisdom is organized life"
 
 test = Ssk(n, lam, 4)
-print(test.k(s, t, test.n, test.limit))
+print(test.k(s, t, test.n, 0))
 print("----- %s seconds -----" % (time.time() - start))
 
 
