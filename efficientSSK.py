@@ -80,9 +80,9 @@ class Ssk:
 a = "science is organized life"
 b = "wisdom is organized life"
 
-test = Ssk(n, lam)
-print(test.k(s, t, test.n)/(math.sqrt(test.k(s, s, test.n)*test.k(t, t, test.n))))
+#test = Ssk(n, lam)
+#print(test.k(s, t, test.n)/(math.sqrt(test.k(s, s, test.n)*test.k(t, t, test.n))))
 #print(test.k(a, b, test.n)/(math.sqrt(test.k(a, a, test.n)*test.k(b, b, test.n))))
-print("----- %s seconds -----" % (time.time() - start))
+#print("----- %s seconds -----" % (time.time() - start))
 
 
