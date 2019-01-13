@@ -5,7 +5,7 @@ import sys
 import os
 sys.setrecursionlimit(100000)
 
-n = 4
+n = 3
 lam = 0.5
 #limCoefficient = 0.5
 
@@ -25,15 +25,13 @@ class Ssk:
         self.dict2 = {}
         self.dict3 = {}
         self.n = n
-        limit = 1
-        while(lam**limit > limCoefficient):
-            limit += 1
+        limit = math.ceil(math.log(limCoefficient)/math.log(lam))
         print('limit calculated to', limit)
         self.limit = limit   
         self.lam = lam
 
     def kernel(self, s, t):
-        return self.k(s, t, self.n)/(self.k(s, s, self.n)*self.k(t, t, self.n))
+        return self.k(s, t, self.n)
 
     def k(self, s, t, i):
         if (s, t, i) in self.dict1:
@@ -49,10 +47,8 @@ class Ssk:
         for j in range(len(t)):
             if (t[j] == x):
                 if (j < self.limit):
-                    #print('1 we matched with letter ', t[j], ' t is: ', t[0:j], ' s is: ', s[:j], ' j is ', j, ' and ', j-self.limit)
                     value += self.kP(s[-j:-1], t[0:j], i-1)*(self.lam**2)
                 else:
-                    #print('2 we matched with letter ', t[j], ' t is still: ', t[j-self.limit:j], ' s is still: ', s[-self.limit-1:-1], ' j is ', j)
                     value += self.kP(s[-self.limit-1:-1], t[j-self.limit:j], i-1)*(self.lam**2)
 
         value += self.k(s[:-1], t, i)
@@ -97,16 +93,19 @@ class Ssk:
         self.dict3[(s, t, i)] = value
         return value    
 
-a = "bollbkdig"
-b = "bille mig"
+a = "science is organized"
+b = "life is science"
+
+test = Ssk  (n, lam, 0.01)
+print(test.kernel(s, t))
 """
-test = Ssk  (n, lam, 0.05)
 print('Comparison between corn: ', test.k(corn1, corn2, test.n)/(test.k(corn1, corn1, test.n)*test.k(corn2, corn2, test.n)))
 print('Comparison between corn and crude: ', test.k(corn1, crude1, test.n)/(test.k(corn1, corn1, test.n)*test.k(crude1, crude1, test.n)))
 print('Comparison between corn and crude: ', test.k(corn2, crude2, test.n)/(test.k(corn2, corn2, test.n)*test.k(crude2, crude2, test.n)))
 print('Comparison between crude: ', test.k(crude1, crude2, test.n)/(test.k(crude1, crude1, test.n)*test.k(crude2, crude2, test.n)))
 print(test.k(corn1, corn1, test.k))
-print("----- %s seconds -----" % (time.time() - start))
 """
+print("----- %s seconds -----" % (time.time() - start))
+
 
 

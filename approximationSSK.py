@@ -16,8 +16,15 @@ class Ssk:
         self.dict1 = {}
         self.dict2 = {}
         self.dict3 = {}
+        self.dictS = {}
         self.n = n
         self.lam = lam
+
+    #This is the kernel function returning the value which
+    #represents the hueristic relationship between the strings
+    def kernel(self, s, t):
+
+        return self.k(s, t, self.n)
 
     def k(self, s, t, i):
 
@@ -70,20 +77,19 @@ class Ssk:
         value = 0
         
         if (x == u):
-            value = self.lam * (self.kPP(s, t[:-1], i) + self.lam*self.kP(s[:-1], t[:-1], i-1))
+            value = self.lam * (self.kPP(s, t[:-1], i) + self.lam*self.kP(s[:-1], t[:-1], i-1)) 
         else:
             value = self.lam * self.kPP(s, t[:-1], i)
 
         self.dict3[(s, t, i)] = value
-        return value    
+        return value
 
-a = "sciene is rgasedqe"
-b = "wisdom is orgftevd"
+
+a = "catat"
+b = "life is science"
 
 test = Ssk(n, lam)
+print(test.kernel(s, t, 100))
 #print(test.k(s, t, test.n)/(math.sqrt(test.k(s, s, test.n)*test.k(t, t, test.n))))
 #print(test.k(a, b, test.n)/(math.sqrt(test.k(a, a, test.n)*test.k(b, b, test.n))))
-print(test.k(s, t, test.n))
 print("----- %s seconds -----" % (time.time() - start))
-
-

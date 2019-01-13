@@ -1,15 +1,15 @@
 from sklearn.svm import SVC
 import numpy as np
 import os
+import math
+import time
 import matplotlib.pyplot as plt
 from SSKModified import Ssk
 from sklearn import svm, datasets
 
-
-iris = datasets.load_iris()
-# Select 2 features / variable for the 2D plot that we are going to create.
+start = time.time()
 counter = 0
-n, lam, limCoefficient = 3, 0.5, 0.05
+n, lam, limCoefficient = 3, 0.5, 0.01
 trainingPath = 'C:/MLprojekt/SSK/reuters/reuters/silverTraining'
 targets = []
 training = []
@@ -41,25 +41,32 @@ for file in os.listdir(trainingPath):
                 break
         count += 1
 
+length = len(training)
+gramMatrix = np.zeros((length, length))
+count = 0
+for i in range(length):
+        for j in range(i, length):
+                gramMatrix[i][j] = ssk.kernel(training[i], training[j])
+                gramMatrix[j][i] = gramMatrix[i][j]
+                count += 1
+                print(count, ' documents done out of ', length * length, ' documents')
 
-print('length is ', len(training))
+normalized_gramMatrix = np.zeros((length, length))
+
+for i in range(length):
+        for j in range(i, length):
+                normalized_gramMatrix[i][j] = gramMatrix[i][j] / (math.sqrt(gramMatrix[i][i]*gramMatrix[j][j]))
+
+for array in normalized_gramMatrix:
+        print(array)
+print("----- %s seconds -----" % (time.time() - start))
+
+"""
 model = svm.SVC(kernel=ssk.kernel).fit(training, targets)
 
 X, y = datasets.make_multilabel_classification()
 
 X = X[:,:2]
-
-
-def own_kernel(X, Y):
-    """
-    We create a custom kernel:
-
-                 (2  0)
-    k(X, Y) = X  (    ) Y.T
-                 (0  1)
-    """
-    M = np.array([[2, 0], [0, 1.0]])
-    return np.dot(np.dot(X, M), Y.T)
 
 def make_meshgrid(x, y, h=.02):
     x_min, x_max = x.min() - 1, x.max() + 1
@@ -73,7 +80,7 @@ def plot_contours(ax, clf, xx, yy, **params):
     out = ax.contourf(xx, yy, Z, **params)
     return out
 """
-model = svm.SVC(kernel=own_kernel).fit(X, y)
+#model = svm.SVC(kernel=own_kernel).fit(X, y)
 """
 fig, ax = plt.subplots()
 X0, X1 = X[:, 0], X[:, 1]
@@ -88,3 +95,4 @@ ax.set_xticks(())
 ax.set_yticks(())
 ax.legend()
 plt.show()
+"""

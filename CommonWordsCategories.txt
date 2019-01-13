@@ -1,0 +1,100 @@
+cocoa
+acq
+money-supply
+acq
+earn
+earn
+acq trade
+earn
+nat-gas crude
+sugar cocoa coffee
+veg-oil
+acq
+earn
+acq
+earn
+earn
+earn
+earn
+earn
+gas
+earn
+earn
+acq
+ship iron-steel
+earn
+money-fx
+acq
+earn
+acq
+earn
+earn
+earn
+acq
+earn
+cotton
+earn
+acq
+acq
+earn
+earn
+earn
+acq
+earn acq
+earn
+dlr money-fx
+earn
+crude acq
+money-supply
+interest money-fx
+crude
+dlr money-fx
+earn
+earn
+acq
+acq
+earn
+earn
+earn
+interest money-fx
+earn
+earn
+earn
+earn
+earn
+acq
+earn
+money-supply
+earn
+coffee
+acq
+earn
+crude acq
+sugar
+earn
+earn
+earn
+earn
+earn
+earn
+earn
+earn
+corn wheat grain
+cocoa
+carcass livestock sugar grain
+acq
+acq
+earn
+earn
+jobs gnp
+money-fx
+corn grain acq
+earn
+acq
+earn
+strategic-metal
+money-supply
+money-supply
+money-supply
+interest
+acq
