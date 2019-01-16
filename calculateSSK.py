@@ -1,16 +1,13 @@
-from sklearn import svm, datasets
-import matplotlib.pyplot as plt
+from sklearn import svm
 import numpy as np  
-from sklearn.svm import SVC
 import sklearn.preprocessing as preprocessing
 import os
 import math
 import time
-import string
-from efficientSSK import Ssk
+from SSKModified import Ssk
 
-category = 'corn'
-category2 = 'gold'
+category = 'corn' #Test andra kategorier
+category2 = 'gold'  #testa andra kategorier
 testCatsPath = 'C:/MLprojekt/SSK/reuters/reuters/testCats.txt'
 trainingCatsPath = 'C:/MLprojekt/SSK/reuters/reuters/trainingCats.txt'
 trainingPath = 'C:/MLprojekt/SSK/reuters/reuters/'+category+'Training'  # path for training set
@@ -21,56 +18,58 @@ start = time.time()
 
 n = 5
 lam = 0.5
-trainingSize = 10
-testSize = 4
-count = 0
-ssk = Ssk(n, lam)
+trainingSize = 10   #Dessa bör tweakas i olika test
+testSize = 4        #Dessa bör tweakas i olika test
+count = 0           
+ssk = Ssk(n, lam, 0.01) #0.01 är vår egen variabel
 
 def getFiles(path, path2, amount, testSize):
 
     print('fetching ', amount, ' files')
-    half, halfTest, count, testCount = amount/2, testSize/2, 0, 0
-    files, fileNames, categories, testSet, testNames, testCategories = [], [], [], [], [], []
+    count, testCount = 0, 0
+    files, fileNames, categories = [' ' for i in range(amount)], [' ' for i in range(amount)], [' ' for i in range(amount)]
+    testSet, testNames, testCategories = [' ' for i in range(testSize)], [' ' for i in range(testSize)], [' ' for i in range(testSize)]
 
     for file in os.listdir(path):
-        if (count == half):
-            if (testCount == halfTest):
+        if (count >= amount):
+            if (testCount >= testSize):
                 break
             else:
-                testCount += 1
-                testNames.append(file)
+                testNames[testCount] = file
                 f = open(path+'/'+file, 'r')
-                testSet.append(f.read())
+                testSet[testCount] = f.read()
                 f.close()
-                testCategories.append(category)
+                testCategories[testCount] = category
+                testCount += 2
         else:
-            count += 1
-            fileNames.append(file)
-            f = open(path+'/'+file, 'r')
-            files.append(f.read())
-            f.close()
-            categories.append(category)
-            #print(amount - count , ' documents left')
             
+            fileNames[count] = file
+            f = open(path+'/'+file, 'r')
+            files[count] = f.read()
+            f.close()
+            categories[count] = category
+            count += 2
+
+    count, testCount = 1, 1
     for file in os.listdir(path2):
-        if (count == amount):
-            if (testCount == testSize):
+        if (count >= amount):
+            if (testCount >= testSize):
                 break
             else:
-                testCount += 1
-                testNames.append(file)
+                testNames[testCount] = file
                 f = open(path2+'/'+file, 'r')
-                testSet.append(f.read())
+                testSet[testCount] = f.read()
                 f.close()
-                testCategories.append(category2)
+                testCategories[testCount] = category2
+                testCount += 2
         else:
-            count += 1
-            fileNames.append(file)
+
+            fileNames[count] = file
             f = open(path2+'/'+file, 'r')
-            files.append(f.read())
+            files[count] = f.read()
             f.close()
-            categories.append(category2)
-            #print(amount - count , ' documents left')
+            categories[count] = category2
+            count += 2
 
     return files, fileNames, categories, testSet, testCategories
 
@@ -90,10 +89,18 @@ def getCategories(path, fileNames):
 def calculateGram(dataSet, dataSet2):
 
     gram = np.zeros((len(dataSet), len(dataSet2)))
-    for i in range(len(dataSet)):
-        for j in range(i, len(dataSet2)):
-            gram[i][j] = ssk.kernel(dataSet[i], dataSet2[j])
-            gram[j][i] = gram[i][j]   
+
+    if(len(dataSet) == len(dataSet2)):
+        print('equal length')
+        for i in range(len(dataSet)):
+            for j in range(i, len(dataSet2)):
+                gram[i][j] = ssk.kernel(dataSet[i], dataSet2[j])
+                gram[j][i] = gram[i][j]  
+    else:
+        print('not equal length')
+        for i in range(len(dataSet)):
+            for j in range(len(dataSet2)):
+                gram[i][j] = ssk.kernel(dataSet[i], dataSet2[j]) 
     
     normalizedGram = np.zeros((len(dataSet), len(dataSet2)))
     for i in range(len(dataSet)):
@@ -103,6 +110,10 @@ def calculateGram(dataSet, dataSet2):
     return normalizedGram
 
 trainingSet, trainingFileNames, trainingCats, testSet, testCategories = getFiles(trainingPath, trainingPath2, trainingSize, testSize)
+
+for i in range(len(trainingCats)):
+    print(trainingCats[i])
+
 trainingGram = calculateGram(trainingSet, trainingSet)
 testGram = calculateGram(testSet, trainingSet)
 
@@ -116,6 +127,7 @@ encoder = preprocessing.LabelEncoder()
 encoder.fit(labels)
 labels = encoder.transform(labels)
 
+print('starting training model')
 model = svm.SVC(kernel='precomputed')
 model.fit(trainingGram, labels)
 predictions = model.predict(testGram)

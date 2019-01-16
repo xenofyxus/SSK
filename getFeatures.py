@@ -6,10 +6,10 @@ from nltk.corpus import reuters
 from nltk.tokenize import word_tokenize
 
 
-n = 5 #Length of each word
+n = 6 #Length of each word
 lam = 0.5
 dict = {}
-features = 100
+features = 5
 
 def addDoc(doc, n):
     for i in range(len(doc) - n + 1):
@@ -45,7 +45,7 @@ for file in os.listdir(trainingPath):
 
 newDict = sorted(dict, key=dict.get, reverse=True)[:features]
 
-os.remove('C:/MLprojekt/SSK/CommonWords.txt') #Remove old file
+#os.remove('C:/MLprojekt/SSK/CommonWords.txt') #Remove old file
 new = open('C:/MLprojekt/SSK/CommonWords.txt', 'a') #Create new file
 for word in newDict: #Write the most common words to file
     new.write(word)

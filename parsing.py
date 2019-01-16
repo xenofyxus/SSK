@@ -12,7 +12,7 @@ stopwords = open('C:/MLprojekt/SSK/reuters/reuters/stopwords',
 # path for our new folder with parsed test data
 #newTestPath = 'C:/MLprojekt/SSK/reuters/reuters/updatedTest'
 
-category = 'wheat'
+category = 'sugar'
 
 value = 1
 hashtable = {'key': 'value'}

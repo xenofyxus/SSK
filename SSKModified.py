@@ -96,8 +96,8 @@ class Ssk:
 a = "science is organized"
 b = "life is science"
 
-test = Ssk  (n, lam, 0.01)
-print(test.kernel(s, t))
+#test = Ssk  (n, lam, 0.01)
+#print(test.kernel(s, t))
 """
 print('Comparison between corn: ', test.k(corn1, corn2, test.n)/(test.k(corn1, corn1, test.n)*test.k(corn2, corn2, test.n)))
 print('Comparison between corn and crude: ', test.k(corn1, crude1, test.n)/(test.k(corn1, corn1, test.n)*test.k(crude1, crude1, test.n)))
@@ -105,7 +105,7 @@ print('Comparison between corn and crude: ', test.k(corn2, crude2, test.n)/(test
 print('Comparison between crude: ', test.k(crude1, crude2, test.n)/(test.k(crude1, crude1, test.n)*test.k(crude2, crude2, test.n)))
 print(test.k(corn1, corn1, test.k))
 """
-print("----- %s seconds -----" % (time.time() - start))
+#print("----- %s seconds -----" % (time.time() - start))
 
 
 
