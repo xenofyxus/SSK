@@ -9,8 +9,8 @@ import time
 import string
 from approximationSSK import Ssk
 
-category = 'silver'     #Dessa byter du för nya kategorier VIKTIGT
-category2 = 'corn'      #Dessa byter du för nya kategorier VIKTIGT titta i reuters/reuters mappen för att se olika kategorier
+category = 'gold'     #Dessa byter du för nya kategorier VIKTIGT
+category2 = 'silver'      #Dessa byter du för nya kategorier VIKTIGT titta i reuters/reuters mappen för att se olika kategorier
 testCatsPath = 'C:/MLprojekt/SSK/reuters/reuters/testCats.txt'
 trainingCatsPath = 'C:/MLprojekt/SSK/reuters/reuters/trainingCats.txt'
 trainingPath = 'C:/MLprojekt/SSK/reuters/reuters/'+category+'Training'  # path for training set
@@ -19,11 +19,11 @@ trainingPath2 = 'C:/MLprojekt/SSK/reuters/reuters/'+category2+'Training'  # path
 testPath2 = 'C:/MLprojekt/SSK/reuters/reuters/'+category2+'Test'  # path for test set
 start = time.time()
 
-n = 4               #N måste stämma överrens med antal bokstäver i orden
+n = 6               #N måste stämma överrens med antal bokstäver i orden
 lam = 0.5           #Testa gärna olika Markus men kom ihåg att bortkommentera commonWords du inte använder
-commonWords = open('C:/MLprojekt/SSK/CommonWords4.txt').read().split('\n') #100 ord, 4 bokstäver längd
+#commonWords = open('C:/MLprojekt/SSK/CommonWords4.txt').read().split('\n') #100 ord, 4 bokstäver längd
 #commonWords = open('C:/MLprojekt/SSK/CommonWords5.txt').read().split('\n') #100 ord, 5 bokstäver längd
-#commonWords = open('C:/MLprojekt/SSK/CommonWords6.txt').read().split('\n') #100 ord, 6 bokstäver längd
+commonWords = open('C:/MLprojekt/SSK/CommonWords6.txt').read().split('\n') #100 ord, 6 bokstäver längd
 #commonWords = open('C:/MLprojekt/SSK/CommonWords54.txt').read().split('\n') #5 ord, 4 bokstäver längd
 #commonWords = open('C:/MLprojekt/SSK/CommonWords55.txt').read().split('\n') #5 ord, 5 bokstäver längd
 #commonWords = open('C:/MLprojekt/SSK/CommonWords56.txt').read().split('\n') #5 ord, 6 bokstäver längd
@@ -36,7 +36,7 @@ ssk = Ssk(n, lam)
 
 def getFiles(path, path2, amount, testSize):
 
-    print('fetching ', amount, ' files')
+    #print('fetching ', amount, ' files')
     count, testCount = 0, 0
     files, fileNames, categories = [' ' for i in range(amount)], [' ' for i in range(amount)], [' ' for i in range(amount)]
     testSet, testNames, testCategories = [' ' for i in range(testSize)], [' ' for i in range(testSize)], [' ' for i in range(testSize)]
@@ -99,7 +99,7 @@ def getCategories(path, fileNames):
 
 def preCalculateSSK(dataSet, words):
 
-    print('Initiating kernel calculations')
+    #print('Initiating kernel calculations')
     sskCal = np.zeros((len(dataSet), len(words)))
     for i in range(len(dataSet)):
         for j in range(len(words)):
@@ -116,7 +116,7 @@ def calculateGram(dataSet, dataSet2):
                 value += dataSet[i][k] * dataSet2[j][k]
             gram[i][j] = value    
     
-    print('normalizing, length: ', len(dataSet), ' ', len(dataSet2))
+    #print('normalizing, length: ', len(dataSet), ' ', len(dataSet2))
     for i in range(len(dataSet)):
         for j in range(len(dataSet)):
             gram[i][j] = gram[i][j]/math.sqrt(gram[i][i]*gram[j][j])
@@ -142,21 +142,30 @@ labels = encoder.transform(labels)
 model = svm.SVC(kernel='precomputed')
 model.fit(trainingGram, labels)
 predictions = model.predict(testGram)
+
+print("Using the SSK approximation kernel")
+print("Checking ", category, "vs", category2)
+print(testSize,"test documents")
+print(trainingSize,"training documents")
+print("The words are ", n , "long")
+print("Using lambda", lam)
+print("Using ",len(commonWords), "features")
 print(predictions)
 
 testLabels = np.array(testCategories)
 encoder = preprocessing.LabelEncoder()
 encoder.fit(trainingCats)
 testLabels = encoder.transform(testLabels)
-
+"""
 for i in range(len(trainingGram)):
     for j in range(len(trainingGram[0])):
         print(testGram[i][j])
     print('-----------')
+"""
 countNumberOfRights = 0
 for i in range(len(testLabels)):
 	if(predictions[i] == testLabels[i]):
 		countNumberOfRights += 1
 
-print("right:", countNumberOfRights/len(testLabels))
+print("Correct :", countNumberOfRights/len(testLabels))
 print('---------- ', time.time() - start, ' -----------')
