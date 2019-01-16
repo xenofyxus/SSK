@@ -98,3 +98,7672 @@ money-supply
 money-supply
 interest
 acq
+earn
+earn
+earn
+earn
+crude acq
+earn
+acq
+soybean oilseed wheat corn grain
+earn
+earn
+barley sorghum soy-oil veg-oil meal-feed soybean oilseed wheat corn grain
+money-supply
+money-supply
+money-supply
+earn
+earn
+money-supply
+earn
+earn
+earn
+nat-gas crude acq
+money-fx
+crude
+earn
+earn
+money-supply
+acq
+crude
+earn
+earn
+earn
+trade
+earn
+acq
+gold
+earn
+gold
+earn acq
+acq
+trade
+earn
+acq
+earn
+earn
+nat-gas crude
+lei
+ipi
+earn
+earn
+earn
+earn
+acq
+earn
+earn
+earn
+earn
+earn
+interest money-supply
+earn
+earn
+trade
+alum
+crude coffee
+cpi
+cpi
+reserves
+dlr money-fx
+trade
+trade
+crude iron-steel coffee tea wheat grain trade
+earn
+trade iron-steel
+interest
+earn
+earn
+earn
+ipi
+earn
+ipi
+gnp
+acq
+earn
+earn
+bop
+bop
+trade bop
+sugar
+money-supply
+coffee
+castor-oil veg-oil oilseed
+ship
+wheat grain
+sugar
+dlr money-fx
+acq
+acq
+acq
+ipi
+iron-steel
+earn
+corn grain
+acq
+money-fx
+alum
+dlr money-fx
+alum
+earn
+earn
+rape-oil veg-oil
+tin
+carcass
+acq
+dlr money-fx
+earn
+corn grain
+money-fx gnp
+bop trade
+earn
+dfl money-fx
+trade
+acq
+earn
+housing
+trade
+money-fx
+trade
+money-fx
+dlr money-fx
+money-fx
+money-fx
+housing
+acq
+trade bop
+yen dlr money-fx
+sugar
+money-fx
+dlr money-fx
+acq
+bop trade
+sugar carcass
+trade
+bop trade
+cpi
+earn
+dlr money-fx
+cpi
+cpi
+earn
+ship
+acq
+earn
+ship
+earn
+ship
+ship crude
+interest
+earn
+acq
+cotton
+jobs
+earn
+earn
+cocoa
+acq
+crude iron-steel tea coffee wheat grain trade
+earn
+earn
+acq
+money-fx
+money-fx
+acq
+acq
+earn
+acq
+earn
+earn
+earn
+acq
+acq
+earn
+earn
+earn
+earn
+acq
+wheat grain
+earn
+acq
+earn
+cocoa
+ship crude
+acq
+acq
+trade
+acq
+earn
+acq
+interest
+acq
+earn
+earn
+cocoa
+earn
+acq
+dlr money-fx
+earn
+earn
+lead zinc silver gold
+corn grain
+grain corn
+gnp
+cocoa
+wheat grain
+earn
+earn
+sugar
+bop
+earn
+money-fx interest
+cocoa
+cocoa
+acq
+earn
+earn
+acq
+rice wheat corn grain
+ship
+trade ipi
+nat-gas
+earn
+acq
+earn
+trade
+reserves gnp
+earn
+earn
+earn
+cotton
+earn
+ship crude
+acq
+earn
+earn
+interest
+money-fx gold
+earn
+earn
+acq
+cpi
+acq
+earn
+ship
+earn
+acq
+earn
+earn
+earn
+propane heat nat-gas crude cpi
+grain wheat
+wheat grain
+earn
+acq
+gnp
+pet-chem
+acq ship
+cocoa
+acq
+cocoa
+acq
+ship crude
+earn
+oilseed
+money-supply
+alum
+money-supply
+acq
+earn
+earn
+earn
+ship grain
+earn
+earn
+income
+income
+money-fx
+trade
+earn
+earn
+earn
+earn
+cocoa
+rubber
+carcass livestock
+dlr money-fx
+money-fx
+cocoa
+crude ship
+ship crude
+money-fx
+trade
+trade
+crude ship
+earn
+crude
+money-fx
+reserves
+money-fx
+money-fx
+coffee
+crude ship
+trade
+grain trade
+earn
+earn
+earn
+dlr money-fx
+dlr money-fx
+dlr money-fx
+dlr money-fx
+dlr money-fx
+dlr money-fx
+dlr money-fx
+dlr money-fx
+earn
+dlr money-fx
+money-fx
+gold
+trade
+crude
+barley wheat grain
+acq
+acq
+nickel
+yen dlr money-fx
+gnp
+yen dlr money-fx
+coffee
+yen dlr money-fx
+earn
+sugar
+earn
+dlr yen money-fx
+wheat grain
+acq
+crude
+acq
+trade
+yen dlr money-fx
+earn
+earn
+corn grain
+earn
+earn
+money-fx
+soybean oilseed
+money-supply
+alum
+earn
+money-fx
+coconut oilseed
+acq
+earn
+ship
+yen dmk money-fx
+gold
+coconut oilseed
+acq
+cpi
+rubber
+dlr money-fx
+money-fx
+dlr money-fx
+money-supply
+earn
+acq
+cocoa
+earn
+acq
+money-supply
+ship
+money-fx
+crude
+dmk dlr money-fx
+coffee
+money-supply
+money-fx
+money-fx
+money-supply
+rape-oil sun-oil veg-oil rapeseed sunseed oilseed
+acq
+cocoa
+yen dlr money-fx
+yen dlr money-fx
+trade
+acq
+yen dlr money-fx
+zinc
+yen dlr money-fx
+money-fx trade
+money-fx
+money-fx
+trade
+interest
+trade money-fx
+trade
+dlr money-fx
+acq
+acq
+acq
+acq
+ipi
+earn
+acq
+money-fx
+ship crude
+earn
+earn
+ship sugar
+yen money-fx
+earn
+trade money-fx
+money-fx
+money-fx
+gold
+acq
+acq
+earn
+gold
+earn
+trade
+earn
+gnp
+rice wheat grain
+acq
+earn
+earn
+acq
+earn
+earn
+earn
+earn
+acq
+acq
+crude
+earn
+acq
+acq
+coffee
+earn
+earn
+earn
+earn
+livestock hog
+money-fx
+fuel
+money-fx
+acq
+gold
+earn
+earn
+acq
+acq
+crude
+acq
+coffee
+earn
+earn
+money-fx
+soybean oilseed corn wheat grain
+acq
+earn
+earn
+pet-chem rubber
+acq
+earn
+acq
+earn
+earn
+acq
+earn
+acq
+money-supply
+earn
+acq
+coffee
+veg-oil
+earn
+trade
+earn
+acq
+acq
+earn
+money-fx
+earn
+acq
+earn
+earn
+earn
+earn
+earn
+earn
+earn
+acq
+nzdlr
+wheat grain
+acq
+earn
+earn
+earn
+crude
+acq
+corn wheat grain
+coffee
+earn
+acq
+acq
+acq
+earn
+earn
+earn
+gold acq
+acq
+earn
+earn
+earn
+acq
+earn
+earn
+acq
+acq
+acq
+acq
+acq
+gold acq
+acq
+earn
+earn
+acq
+bop
+money-fx
+acq
+crude
+earn
+soybean oilseed corn wheat grain
+earn
+earn
+earn
+gnp
+crude
+earn
+earn
+acq
+acq
+iron-steel
+earn
+earn
+earn
+earn
+iron-steel
+acq
+wheat grain
+acq
+sugar
+earn
+earn
+acq
+earn
+earn
+acq
+rapeseed oilseed
+acq
+earn
+earn
+money-fx
+earn
+acq
+cotton
+grain
+acq
+fuel
+orange
+acq
+trade
+acq
+earn
+gnp interest
+corn wheat grain
+acq
+earn
+acq
+earn
+earn
+cotton sorghum corn wheat grain
+nat-gas
+acq
+earn
+money-supply
+carcass livestock veg-oil
+crude
+acq
+acq
+money-fx
+iron-steel
+earn
+earn
+iron-steel
+earn
+earn
+earn
+earn
+acq
+earn
+crude
+wheat grain
+interest money-fx
+money-fx dlr
+iron-steel
+earn
+earn alum iron-steel
+acq
+bop
+earn
+earn
+acq
+acq
+money-fx dlr
+acq
+bop
+acq
+acq
+acq
+earn
+crude
+earn
+earn
+earn
+earn
+jobs
+jobs
+acq
+dlr
+dlr
+dlr
+sugar
+earn
+earn
+housing
+earn
+sugar
+trade
+trade
+acq
+iron-steel
+acq
+earn
+coffee
+bop
+zinc
+gnp
+acq
+money-fx
+earn
+cpi
+trade
+interest
+interest money-fx
+acq
+acq
+yen money-fx
+earn
+barley wheat grain
+trade money-fx
+acq
+earn
+dmk dlr money-fx
+crude sugar acq
+rice grain
+earn
+earn
+earn
+trade
+rubber coffee cocoa wheat grain sugar tin
+trade
+earn
+money-fx
+trade
+acq
+sugar
+sugar nat-gas crude
+earn
+oilseed
+money-fx
+acq
+acq
+interest money-fx
+acq
+earn
+earn
+acq
+earn
+interest money-fx
+earn
+interest
+ship
+acq
+acq
+dlr yen trade
+acq
+money-fx
+acq
+lei
+trade
+lei
+interest money-fx
+coffee
+acq
+corn grain
+earn
+ship
+earn
+alum
+acq
+jobs
+earn
+carcass
+acq
+earn
+trade money-fx
+earn
+earn
+money-fx
+acq
+trade
+acq
+gnp
+acq
+acq
+money-fx
+acq
+earn
+earn
+earn
+earn
+earn
+earn
+earn
+earn
+sorghum corn grain
+interest
+trade
+barley wheat grain
+earn
+earn
+money-fx
+acq
+gnp
+sugar
+earn
+earn
+earn
+earn
+earn
+earn
+cocoa sugar coffee
+wheat grain
+acq
+acq
+acq
+earn
+nat-gas crude
+trade
+earn
+lei gnp
+trade
+earn
+earn
+acq
+interest money-fx
+acq
+earn
+earn
+alum
+coffee
+acq
+acq
+earn
+acq
+ipi
+earn
+wheat grain
+earn
+trade
+ship
+acq
+sugar
+crude earn
+trade
+corn wheat grain
+acq
+earn
+earn
+acq
+trade
+wheat grain
+earn
+acq
+crude
+acq
+gas
+earn
+earn
+wheat grain
+earn
+money-fx
+earn
+trade
+crude
+interest
+earn
+interest
+wheat grain
+earn
+earn
+earn
+money-fx
+acq
+earn
+earn
+corn grain
+veg-oil
+earn
+acq
+earn
+crude
+wheat grain
+trade
+money-fx
+acq
+money-fx
+earn
+earn
+crude
+cocoa
+trade
+trade
+cocoa sugar coffee
+acq
+acq
+nat-gas
+acq
+acq
+cpi
+earn
+earn
+earn
+acq
+earn
+earn
+copper
+earn
+acq
+trade
+acq
+earn
+heat gas crude
+acq
+earn
+trade
+earn
+trade
+earn
+earn
+earn
+earn
+acq
+acq
+earn
+cotton
+acq
+rapeseed oilseed
+earn
+acq
+acq
+lumber
+earn
+acq
+acq
+acq
+acq
+earn
+earn
+acq
+rice grain
+acq
+interest money-fx
+earn
+oilseed
+earn
+carcass
+trade
+lei
+earn
+acq
+money-fx
+acq
+trade
+trade
+trade
+crude
+iron-steel
+acq
+earn
+earn
+earn
+earn
+earn
+earn
+earn
+earn
+earn
+earn
+trade
+earn
+earn
+acq
+ipi
+trade
+acq
+ship
+earn
+acq
+acq
+acq
+acq
+earn
+acq
+soybean oilseed corn grain
+wheat grain
+sorghum cotton
+wheat grain
+sugar
+soybean oilseed corn grain
+earn
+earn
+acq
+earn
+earn
+acq
+pet-chem
+gold
+earn
+earn
+earn
+nat-gas crude
+earn
+trade
+earn
+earn
+earn
+gold
+crude
+acq
+cotton rice grain
+earn
+earn
+wheat grain
+earn
+rice wheat grain
+acq
+trade
+interest
+acq
+earn
+earn
+housing
+earn
+earn
+earn
+earn
+cotton wheat grain veg-oil
+earn
+acq
+earn
+earn
+earn
+earn
+earn
+earn
+earn
+earn
+wheat grain ship
+earn
+earn
+gas crude
+earn
+earn
+earn
+earn
+earn
+iron-steel
+acq
+earn
+earn
+earn
+earn
+interest
+earn
+earn
+acq
+crude
+earn
+earn
+earn
+earn
+earn
+corn grain
+earn
+earn
+crude
+earn
+money-fx
+earn
+acq
+soybean oilseed corn grain
+reserves
+acq
+acq
+interest
+acq
+earn
+acq
+earn
+money-fx
+earn
+acq
+earn
+earn
+earn
+acq
+acq
+yen dlr money-fx
+money-supply
+alum
+grain
+cotton corn grain
+earn
+trade
+yen dlr money-fx
+earn
+money-fx dlr
+rubber
+money-fx gnp interest
+veg-oil oilseed palmkernel palm-oil
+earn
+dlr money-fx
+earn
+gnp
+acq
+acq
+acq
+money-fx
+gnp
+money-fx
+tin
+earn
+acq
+earn
+cocoa
+acq
+iron-steel ship
+grain wheat
+acq coffee
+interest
+earn
+interest money-fx
+acq
+acq
+acq
+sugar
+acq
+gold
+interest
+money-fx
+acq
+grain wheat
+oilseed coconut
+acq
+silver gold
+copper
+meal-feed veg-oil oilseed grain ship
+acq
+cocoa
+money-fx dlr
+acq
+interest
+wheat grain
+earn
+silver gold
+acq
+earn
+earn
+interest
+earn
+acq
+interest
+grain
+acq
+money-fx
+coffee
+acq
+acq
+acq
+acq
+acq
+earn
+earn
+earn
+earn
+gas heat
+bop coffee gnp
+earn
+earn
+ship oilseed grain rapeseed corn barley wheat
+veg-oil grain wheat
+acq
+acq
+acq
+sugar
+cpi
+acq
+earn
+earn
+interest
+interest
+earn
+acq
+interest
+earn
+acq
+earn
+acq
+oilseed grain ship
+interest
+livestock hog
+acq
+acq
+iron-steel earn
+earn
+acq
+acq
+earn
+earn
+earn
+veg-oil
+earn
+interest
+lead
+soybean corn oilseed grain
+money-fx
+soybean corn oilseed grain
+interest
+interest
+dmk dlr money-fx
+copper
+money-fx
+earn
+coffee gnp
+veg-oil
+acq
+livestock
+lead
+interest
+livestock
+acq
+oilseed grain soybean sunseed corn
+earn
+earn
+acq
+trade
+cotton
+dmk nkr dlr money-fx
+earn
+earn
+earn
+earn
+earn
+earn
+acq
+acq
+earn
+oilseed soybean
+interest
+earn
+earn
+earn
+acq
+acq
+strategic-metal acq
+acq earn
+earn
+earn
+oilseed grain soybean corn wheat
+sugar
+earn
+strategic-metal acq
+coffee
+grain wheat
+trade
+interest
+coffee
+earn
+interest
+earn
+acq
+interest
+earn
+copper
+interest
+acq
+acq
+earn
+acq
+earn
+earn
+earn
+interest
+earn
+earn
+earn
+iron-steel
+earn
+acq
+earn
+earn
+grain sorghum corn
+acq
+acq
+grain corn
+earn
+earn
+earn
+earn
+earn
+acq
+coffee
+interest
+oilseed rapeseed
+earn
+earn
+earn
+earn
+cpi
+ship grain
+acq
+interest
+earn
+acq
+acq
+interest
+acq
+acq
+earn
+livestock carcass
+trade
+interest
+interest
+acq
+veg-oil
+earn
+interest
+earn
+earn
+sugar
+earn
+coffee
+money-fx
+interest
+interest
+acq
+earn
+acq
+interest
+acq
+acq
+sugar
+money-fx dlr
+acq
+acq
+acq
+yen dlr money-fx
+acq
+interest
+earn
+corn grain soy-meal meal-feed
+earn
+coffee
+earn
+earn
+earn
+acq
+earn
+sugar
+sorghum soybean corn sunseed oilseed grain
+ship grain
+ship
+earn
+ship
+earn
+earn
+acq
+acq
+acq
+acq
+ship sugar
+earn
+money-fx
+acq
+ship
+earn
+interest money-fx
+earn
+earn
+acq
+earn
+acq
+oilseed soybean wheat grain
+acq
+interest
+acq
+earn
+earn
+acq
+earn
+acq
+earn
+coffee
+gas
+earn
+acq
+copper
+earn
+acq
+acq
+acq
+copper
+veg-oil
+acq
+acq
+earn
+interest
+earn
+interest
+acq
+earn
+earn
+earn
+silver
+earn
+interest
+ship
+earn
+acq
+interest
+groundnut soybean rapeseed sunseed grain wheat cotton oilseed
+earn
+livestock carcass
+earn
+interest
+trade
+interest
+wheat grain
+earn
+crude
+grain wheat
+ship
+earn
+interest
+oilseed groundnut
+acq
+interest
+acq
+acq
+earn
+earn
+crude
+earn
+earn
+earn
+earn
+earn
+acq
+earn
+earn
+interest
+earn
+earn
+acq
+earn
+acq
+grain corn
+nat-gas
+nat-gas
+fuel
+interest
+earn
+earn
+acq
+grain corn
+wheat grain
+ship grain
+acq
+livestock
+interest
+earn
+interest
+dlr interest
+grain
+acq
+earn
+coffee
+earn
+acq
+acq
+earn
+soybean oilseed
+acq
+earn
+earn
+earn
+coffee
+acq
+soy-meal sun-meal meal-feed
+earn
+earn
+ship grain
+acq
+crude ship
+veg-oil cotton oilseed groundnut livestock carcass sugar corn wheat grain
+acq
+meal-feed
+carcass livestock
+acq
+earn
+acq
+earn
+earn
+earn
+acq
+earn
+earn
+acq
+earn
+earn
+acq
+dlr interest money-fx
+earn
+interest
+coffee
+grain
+earn
+cocoa trade
+ipi
+pet-chem
+interest money-fx
+ipi
+earn
+acq
+interest money-fx
+sugar
+money-fx
+sugar
+reserves money-fx
+sorghum corn grain
+interest money-fx
+wheat grain
+earn
+dlr money-fx
+sugar
+coffee
+soy-oil veg-oil soy-meal soybean oilseed
+coffee
+barley wheat grain
+wpi money-supply
+acq
+earn
+reserves
+reserves
+corn grain
+dlr money-fx
+oilseed pet-chem
+earn
+acq
+gold
+acq
+money-fx interest
+earn
+acq
+earn
+interest money-fx
+acq
+interest
+interest money-fx
+trade
+wheat grain
+coffee
+acq
+gnp
+sugar
+earn
+cpi
+coffee
+ipi
+acq
+interest
+interest yen dlr money-fx
+interest money-fx
+trade
+trade
+reserves
+interest
+alum nickel silver zinc lead copper
+acq
+earn
+earn
+copper
+coffee
+acq
+interest money-fx
+interest
+acq
+corn wheat grain
+interest money-fx
+crude
+acq
+earn
+earn
+jobs
+earn
+interest
+earn
+earn
+acq
+interest
+earn
+earn
+earn
+earn
+earn
+earn
+dmk dlr money-fx
+money-fx
+earn
+dmk
+acq
+acq
+earn
+acq
+crude iron-steel
+jobs
+acq
+acq
+wheat grain
+earn
+acq
+earn
+earn
+earn
+interest money-fx
+jobs
+acq
+trade
+earn
+earn
+trade
+trade
+earn
+ship wheat grain
+earn
+interest
+earn
+earn
+earn
+gnp money-supply
+earn
+earn
+earn
+corn grain
+palm-oil veg-oil
+corn grain
+money-fx
+interest
+money-fx
+earn
+earn
+alum
+earn
+earn
+corn grain
+earn
+crude
+earn
+gnp
+nat-gas
+corn grain
+interest
+interest
+orange livestock carcass
+interest money-fx
+jobs
+interest money-fx
+veg-oil palm-oil
+money-supply
+acq
+jobs
+soy-meal meal-feed
+tea
+trade
+oilseed soybean
+money-supply
+acq
+acq
+sugar
+ship
+grain wheat
+cocoa
+acq
+ship grain
+earn
+ship pet-chem
+ipi gnp cpi
+sugar
+interest
+crude
+sugar
+money-fx dlr
+earn
+money-fx
+soy-oil veg-oil
+meal-feed soy-meal
+gnp
+interest money-fx
+sugar
+money-fx
+dlr money-fx
+silver gold
+acq
+earn
+acq
+acq
+reserves money-fx
+grain wheat
+crude
+interest
+money-fx
+interest
+interest money-fx
+cocoa
+coffee
+money-fx
+reserves
+jobs
+interest money-fx
+acq
+ship
+earn
+acq
+reserves
+earn
+grain
+earn
+acq
+alum
+acq
+earn
+interest money-fx
+money-supply
+money-fx
+coffee
+interest
+trade
+grain ship
+earn
+nat-gas
+acq
+acq
+copper
+acq
+earn
+copper
+earn
+acq
+earn
+earn
+grain corn
+earn
+reserves
+dmk dlr money-fx
+earn
+earn
+interest
+interest
+acq
+earn
+earn
+grain wheat
+acq
+acq
+acq
+interest
+earn
+earn
+earn
+earn
+acq
+earn
+earn
+acq
+tea
+interest
+acq
+copper
+interest
+earn
+earn
+earn
+interest
+acq
+interest money-fx
+ship
+earn
+earn
+acq
+heat
+acq
+crude
+lumber
+lumber
+earn
+wheat grain
+acq
+rubber
+earn
+gold
+acq
+cotton
+grain wheat
+acq
+acq
+earn
+earn
+copper
+acq
+oilseed rapeseed
+bop gnp
+gold
+acq
+grain
+copper
+acq
+acq
+earn
+earn
+alum
+copper
+acq
+earn
+cpi
+interest
+earn
+money-supply
+acq
+earn
+money-supply
+acq
+acq
+interest
+earn
+earn
+earn
+acq
+earn
+earn
+acq
+acq
+trade
+acq
+acq
+trade
+trade
+strategic-metal
+money-fx
+acq
+earn
+crude
+acq
+earn
+earn
+grain
+grain
+acq
+acq
+earn
+money-supply
+coconut-oil palm-oil veg-oil
+acq
+acq
+acq
+earn
+earn
+grain wheat
+acq
+crude
+grain wheat
+grain barley
+nat-gas crude
+acq
+interest
+earn
+earn
+earn
+earn
+crude
+gold
+earn
+silver
+coffee
+ship grain
+earn
+rice grain
+acq
+earn
+rice grain
+earn
+propane nat-gas
+earn
+earn
+earn
+acq
+earn
+earn
+crude
+money-supply
+interest
+earn
+carcass livestock
+earn
+acq
+money-supply
+money-supply
+money-supply
+acq
+ship grain
+acq
+earn
+acq
+earn
+coffee
+cpi
+corn soy-oil oilseed grain
+earn
+acq
+ship soy-oil palm-oil corn wheat grain rapeseed oilseed
+earn
+acq
+crude
+tin
+earn
+earn
+acq
+acq
+coffee
+earn
+earn
+acq
+acq
+acq
+acq
+acq
+money-supply
+earn
+crude
+coffee
+earn
+earn
+acq
+acq
+acq
+acq
+acq
+earn
+earn
+earn
+earn
+earn
+interest
+interest
+wpi
+ipi
+crude
+coffee
+money-fx
+money-fx
+money-fx
+ship
+strategic-metal
+reserves
+crude
+gnp
+earn
+money-fx
+interest
+earn
+acq
+crude
+coffee
+earn
+money-fx
+cocoa
+grain wheat
+gnp
+earn
+rice grain
+money-supply
+crude
+rapeseed wheat oilseed grain
+money-fx dlr
+interest
+alum
+ship
+interest
+cpi
+earn
+crude
+carcass livestock
+carcass livestock
+earn
+acq
+money-fx
+acq
+acq
+money-fx
+earn
+earn
+crude
+earn
+earn
+earn
+grain
+cocoa
+money-supply
+trade
+money-supply
+trade
+acq
+orange
+alum
+earn
+dlr money-fx
+dlr money-fx
+money-fx
+dlr money-fx
+acq
+meal-feed
+acq
+ship crude
+interest
+yen dlr money-fx
+earn
+money-fx
+ipi
+trade
+earn
+grain
+earn
+orange
+crude
+earn
+earn
+crude
+earn
+trade
+earn
+earn
+money-fx dlr
+earn
+ship
+sorghum corn grain
+reserves gold
+copper
+earn
+nat-gas
+acq
+earn
+earn
+earn
+acq
+acq
+earn
+earn
+carcass livestock
+earn
+wheat grain
+earn
+palm-oil veg-oil
+money-fx
+barley wheat
+earn
+acq
+gold
+wheat grain
+acq
+earn
+acq
+earn
+acq
+reserves gold
+barley grain
+earn
+earn
+earn
+dlr money-fx
+coffee
+trade
+earn
+trade
+trade
+corn wheat
+oat barley sorghum corn wheat grain
+earn
+barley sorghum corn wheat grain
+trade dlr money-fx
+crude
+acq
+acq
+zinc copper
+wheat grain
+trade
+earn
+earn
+earn
+trade dlr money-fx
+earn
+trade
+earn
+soy-oil soybean oilseed
+money-fx dmk dlr
+carcass livestock
+soybean oilseed
+trade
+money-fx money-supply
+corn grain
+money-fx
+money-fx
+wheat grain
+ship crude
+earn
+carcass livestock
+dlr money-fx
+corn grain
+money-fx money-supply
+earn
+earn
+trade
+acq
+money-fx
+earn
+soybean oilseed oat wheat cotton grain
+money-fx
+grain
+earn
+carcass
+acq
+earn
+earn
+acq
+earn
+trade bop
+acq
+wheat grain
+acq
+earn
+sugar
+money-fx
+acq
+acq
+earn
+earn
+acq
+money-fx
+earn
+earn
+trade
+earn
+earn
+acq
+reserves money-fx
+interest money-fx
+crude ship
+grain
+interest
+trade
+acq
+acq
+interest
+interest
+earn
+earn
+earn
+acq
+interest
+nickel copper
+acq
+earn
+earn
+earn
+grain
+earn
+acq
+earn
+earn
+earn
+earn
+grain
+earn
+cotton
+sugar
+ship grain
+acq
+earn
+earn
+grain
+earn
+acq
+crude
+crude
+sugar
+earn
+earn
+coffee
+acq
+earn
+livestock sugar
+rubber
+sugar
+earn
+earn
+acq
+copper
+livestock oilseed corn grain
+acq
+earn
+wheat grain ship
+copper
+earn
+acq
+acq
+veg-oil wheat grain
+oilseed
+rice grain
+earn
+earn
+earn
+earn
+earn
+ship
+earn
+earn
+acq
+earn
+earn
+earn
+earn
+earn
+earn
+heat
+earn
+acq
+instal-debt
+earn
+money-fx
+lead zinc copper silver gold
+money-supply
+acq
+earn
+acq
+earn
+earn
+rapeseed oilseed
+acq
+earn
+instal-debt
+acq
+earn
+acq
+acq
+earn
+earn
+interest
+earn
+money-fx
+earn
+earn
+earn
+earn
+acq
+ship sugar
+money-fx
+ship grain
+pet-chem
+earn
+earn
+heat gas crude
+earn
+ship grain
+crude gas
+soybean oilseed grain
+crude ship
+earn
+acq
+wheat grain
+strategic-metal
+wheat grain
+wheat grain
+earn
+fuel crude gas
+acq
+trade
+earn
+earn
+earn
+earn
+money-fx
+earn
+yen dlr money-fx
+acq
+money-supply cpi trade money-fx dlr
+jobs
+money-fx dlr
+money-fx dlr
+trade
+rubber
+money-fx
+acq
+copper
+ship
+earn
+earn
+earn
+pet-chem
+earn
+earn
+acq
+earn
+trade
+acq
+earn
+interest money-fx
+acq
+earn
+earn
+acq
+money-fx dlr
+sugar
+earn
+gas
+crude
+earn
+earn
+earn
+earn
+earn
+earn
+acq
+earn
+dlr money-fx
+rubber
+earn
+sugar
+earn
+earn
+earn
+earn
+cpi
+money-fx interest
+earn
+earn
+ship crude
+grain carcass livestock
+interest money-fx
+acq
+earn
+earn
+earn
+earn
+earn
+earn
+acq
+wheat grain
+earn
+earn
+earn
+acq
+coffee
+acq
+soybean sunseed oilseed sorghum corn grain
+acq
+earn
+earn
+trade
+rice cotton wheat grain
+sugar
+earn
+acq
+earn
+acq
+copper gold
+earn
+earn
+gnp trade bop
+crude
+nat-gas
+acq
+earn
+acq
+grain
+acq
+acq
+earn
+grain
+earn
+acq
+earn
+earn
+earn
+wheat grain
+earn
+earn
+earn
+earn
+acq
+earn
+earn
+earn
+corn barley grain
+earn
+earn
+trade
+earn
+earn
+acq
+earn
+fuel gas
+crude nat-gas
+acq
+acq
+acq
+earn
+acq
+wheat grain
+trade
+acq
+earn
+acq
+acq
+earn
+trade
+cpi
+earn
+acq
+crude
+earn
+earn
+earn
+crude
+acq
+acq
+earn
+earn
+earn
+nat-gas crude
+crude
+earn
+coffee
+earn
+earn
+acq
+earn
+ship
+money-fx interest
+earn
+acq
+grain
+earn
+earn
+acq
+acq
+acq
+acq
+earn
+earn
+earn
+earn
+earn
+nat-gas
+acq
+orange
+earn
+earn
+earn
+earn
+earn
+earn
+acq
+trade carcass livestock
+reserves
+wheat corn grain
+earn
+sugar
+acq
+acq
+gnp cpi
+acq
+soybean oilseed wheat grain
+earn
+earn
+acq
+crude
+earn
+wheat grain
+acq
+earn
+acq
+trade
+trade money-fx
+earn
+sugar
+earn
+earn
+earn
+earn
+alum
+acq
+acq
+earn
+trade
+coffee
+sorghum corn grain
+grain
+earn
+acq
+veg-oil
+earn
+acq
+crude gas
+earn
+acq
+fuel gas crude
+gnp
+acq
+earn acq
+earn
+acq
+trade
+earn
+trade
+earn
+earn
+crude
+earn
+gas crude
+coffee
+soybean oilseed rice cotton grain
+reserves
+acq
+coffee
+crude
+trade bop
+gold
+money-supply
+grain wheat
+ship wheat grain
+ship
+crude ship
+wheat grain
+crude
+crude
+coffee
+money-supply
+reserves
+rice grain
+earn
+gold
+earn
+acq
+earn
+yen dlr money-fx
+tin
+corn grain
+interest money-fx
+trade
+money-supply
+iron-steel
+crude
+trade reserves
+gold silver
+interest money-fx
+sugar
+crude
+money-fx
+trade
+corn grain
+gnp
+earn
+coffee
+bop trade
+trade
+bop trade
+wpi
+oilseed
+interest money-fx
+oat corn grain
+livestock carcass hog soy-meal meal-feed barley wheat potato grain
+interest
+sugar
+interest money-fx
+money-supply
+ship crude
+interest money-fx
+money-fx
+acq
+acq
+acq
+crude
+acq
+interest
+acq
+soy-meal soy-oil soybean meal-feed oilseed veg-oil
+jobs
+earn
+wheat grain
+crude
+earn
+copper
+nat-gas crude
+wheat grain
+earn
+acq
+ship
+acq
+earn
+earn
+earn
+interest money-fx
+acq
+money-fx
+earn
+acq
+earn
+earn
+money-supply
+earn
+earn
+acq
+earn
+corn barley wheat grain
+crude
+earn
+earn
+earn
+acq
+earn
+earn
+crude earn
+interest
+earn
+acq
+gold
+copper wheat grain
+earn
+acq
+soybean oilseed
+earn
+gnp cpi
+earn
+wheat grain
+acq
+reserves
+earn
+earn
+earn
+acq
+acq
+earn
+earn
+crude
+reserves
+earn
+acq
+coffee
+earn
+acq
+earn
+crude
+earn
+acq
+acq
+cpi
+earn
+earn
+earn
+earn
+earn
+earn
+earn
+acq
+earn
+earn
+interest
+earn
+acq
+money-supply
+earn
+earn
+earn
+livestock
+wheat grain
+barley grain
+rapeseed oilseed corn wheat barley grain
+earn
+crude
+crude
+earn
+yen money-fx
+dlr money-fx
+earn
+corn grain
+strategic-metal zinc lead copper
+ship crude
+earn
+yen dlr money-fx
+barley wheat grain
+earn acq
+earn
+acq sugar
+earn
+jobs gnp
+earn
+copper
+money-supply
+acq
+earn
+earn
+sugar
+acq
+interest money-fx
+earn
+earn
+earn
+earn
+corn barley wheat grain
+acq
+acq
+earn
+wheat grain
+acq
+acq
+carcass hog livestock
+earn
+interest
+earn
+crude
+barley grain
+earn
+earn
+acq
+earn
+sugar
+acq
+acq
+sugar
+acq
+earn
+interest
+acq
+earn
+earn
+acq
+earn
+earn
+corn grain
+earn
+earn
+acq
+retail
+bop gnp
+earn
+acq
+earn
+earn
+earn
+trade gnp
+earn
+rice grain
+acq
+yen money-fx
+oilseed soybean
+earn
+acq
+acq
+earn
+earn
+acq
+earn
+earn
+earn
+earn
+earn
+ship
+earn
+earn
+coffee
+earn
+acq
+acq
+acq
+ship
+dlr money-fx
+interest
+earn
+earn
+earn
+trade
+earn
+earn
+earn
+earn
+earn
+acq
+earn
+earn
+earn
+cotton soy-meal tea coffee palmkernel palm-oil corn copra-cake rubber sugar soybean veg-oil rice wheat grain
+earn
+money-fx trade
+earn
+yen dlr money-fx
+earn
+interest
+oilseed groundnut cotton sugar trade
+crude
+acq
+earn
+wheat grain
+crude
+earn
+pet-chem
+acq
+acq
+acq
+earn
+earn
+earn
+oilseed soybean corn wheat grain
+crude
+earn
+earn
+sugar carcass l-cattle livestock
+orange
+earn
+earn
+nat-gas
+earn
+earn
+earn
+earn
+earn
+money-supply
+earn
+money-fx
+earn
+wheat grain
+acq
+gold
+trade
+acq
+crude
+groundnut veg-oil
+earn
+wheat grain
+earn
+earn
+earn
+acq
+earn
+corn grain
+earn
+earn
+money-supply
+money-supply
+acq
+carcass livestock
+crude
+dlr money-fx
+cotton soy-meal meal-feed soy-oil veg-oil soybean oilseed corn grain
+earn
+earn
+crude
+earn
+acq
+money-supply
+money-supply
+coffee
+money-supply
+money-fx
+acq
+earn
+acq
+acq
+acq
+earn
+earn
+crude
+nat-gas
+earn
+earn
+earn
+earn
+coffee
+earn
+acq
+earn
+earn
+carcass livestock
+earn
+acq
+trade
+acq
+earn
+acq
+wheat grain
+nat-gas crude trade
+acq
+earn
+nat-gas crude
+crude
+earn
+earn
+acq
+cocoa sugar trade soybean oilseed coffee
+crude
+wheat grain
+acq
+acq
+cpi
+wheat grain
+crude
+retail
+acq
+acq
+wheat grain trade
+acq
+earn
+wheat grain
+acq
+ship
+acq
+earn
+acq
+earn
+earn
+coffee
+acq
+acq
+coffee
+money-supply
+cpi
+meal-feed
+earn
+gold
+money-fx
+earn
+earn
+earn
+acq
+money-fx
+earn
+earn
+earn
+earn
+acq
+livestock hog
+acq
+interest money-fx
+acq
+acq
+earn
+earn
+acq
+acq
+earn
+crude
+earn
+sugar
+earn
+earn
+earn
+livestock
+corn grain
+acq
+corn grain
+acq
+interest money-fx
+earn
+acq
+coffee
+earn
+acq
+earn
+earn
+corn grain
+retail trade income gnp ipi jobs
+earn
+trade
+trade
+money-fx dlr
+interest money-fx
+earn
+money-fx dlr
+acq
+ship
+acq
+acq
+earn
+acq
+trade
+earn
+acq
+acq
+earn
+earn
+acq
+earn
+earn
+earn
+earn
+copra-cake meal-feed
+earn
+acq
+earn
+earn
+interest money-fx
+ship
+interest money-fx
+reserves money-supply
+earn
+crude
+earn
+earn
+earn
+heat
+money-fx interest
+acq
+earn
+earn
+earn
+gnp interest
+trade
+earn
+acq
+earn
+alum
+earn
+earn
+earn
+interest
+corn grain
+acq
+earn
+crude
+acq
+palm-oil veg-oil
+corn wheat grain
+earn
+money-supply
+money-supply
+jobs
+wheat grain
+earn
+corn grain
+coffee cocoa tea
+earn
+earn
+earn
+earn
+earn
+earn
+sugar
+earn
+gold
+acq
+copper
+money-fx
+crude
+acq
+acq
+earn
+earn
+earn
+crude
+grain corn sugar
+earn
+earn
+copper nickel palladium platinum gold
+acq
+acq
+gold
+earn
+earn
+earn
+acq
+earn
+lumber
+acq
+earn
+acq
+acq
+earn
+earn
+acq
+earn
+earn
+earn
+earn
+ship
+acq
+acq
+acq
+acq
+acq
+ship
+earn
+earn
+earn
+earn
+gas ship
+reserves
+acq
+earn
+earn
+crude
+earn
+reserves
+gnp
+acq
+corn grain
+earn
+earn
+livestock
+ship
+earn
+wheat grain
+money-supply
+trade
+wheat grain
+earn
+acq
+money-supply
+money-supply
+earn
+earn
+nickel copper palladium platinum gold
+livestock
+acq
+earn
+earn
+earn
+acq
+acq
+acq
+housing
+coffee
+acq
+acq
+earn
+acq
+earn
+meal-feed corn grain
+earn
+earn
+acq
+earn
+earn
+earn
+corn grain
+nat-gas
+acq
+crude interest
+acq
+acq
+earn
+earn
+sugar
+earn
+acq
+strategic-metal
+earn
+acq
+acq
+strategic-metal
+ship
+acq
+acq
+corn grain
+acq
+acq
+acq
+interest
+acq
+coffee
+ship
+acq
+jet fuel crude
+ship
+ship
+interest money-fx
+earn
+earn
+earn
+earn
+sugar
+gnp
+money-fx interest
+ship
+soybean oilseed
+crude
+ship
+crude
+meal-feed
+grain veg-oil sugar cotton
+sugar
+rubber
+livestock carcass
+interest
+acq
+iron-steel
+gold
+trade
+earn
+ipi
+money-fx
+money-supply
+ipi
+interest money-fx
+crude
+acq
+money-supply
+money-fx
+interest money-fx
+crude
+interest
+interest
+earn
+acq
+strategic-metal
+acq
+nat-gas crude
+instal-debt
+ship crude
+dlr bop gnp trade
+acq
+dlr money-fx interest
+acq
+dfl bop cpi jobs gnp
+acq
+earn
+ship
+soy-meal meal-feed soybean oilseed
+gnp money-fx
+coffee
+acq
+meal-feed
+earn
+acq
+acq
+acq
+coffee
+acq
+acq
+interest
+interest money-fx
+ship
+ship
+crude
+money-supply
+rubber
+acq
+acq
+livestock hog
+interest money-fx
+acq
+earn
+acq
+dlr gnp crude money-fx bop trade
+money-fx
+interest money-fx
+acq
+interest money-fx
+acq
+acq
+money-supply
+acq
+dmk dlr money-fx
+earn
+trade
+earn
+oilseed grain
+acq
+livestock soy-meal carcass meal-feed grain
+acq
+acq
+interest
+interest
+acq
+strategic-metal platinum gold
+earn
+interest
+acq
+acq
+acq
+acq
+orange
+meal-feed
+acq
+interest
+zinc
+housing
+acq
+orange
+tin
+ship
+interest
+acq
+crude
+earn
+earn
+bop trade
+acq pet-chem
+interest money-fx
+interest
+acq
+interest
+acq
+groundnut-oil palm-oil soy-oil veg-oil rapeseed soybean sunseed oilseed
+interest
+barley wheat grain
+interest
+interest
+meal-feed
+interest money-fx
+corn wheat grain
+acq
+gold
+acq
+nat-gas crude
+crude
+orange
+acq
+acq
+acq
+acq
+rubber
+acq
+money-fx
+earn
+crude
+zinc
+money-fx interest
+acq
+acq
+nat-gas crude
+earn
+nat-gas crude acq
+acq
+acq
+heat
+zinc
+acq
+acq
+coffee
+crude
+cocoa
+sugar corn grain
+interest
+earn
+acq
+trade
+palm-oil rape-oil veg-oil
+crude
+acq
+rapeseed oilseed
+zinc
+nat-gas
+lead
+acq
+ship
+interest
+interest
+money-fx
+acq
+cocoa
+sugar
+acq
+reserves
+acq
+acq
+acq
+earn acq
+earn
+money-supply gnp
+earn
+bop
+acq
+acq
+interest
+earn
+ship
+earn
+ship
+acq
+acq
+acq
+acq
+acq trade dlr money-fx
+earn
+rapeseed oilseed corn grain soy-meal meal-feed
+earn
+wheat grain
+earn
+earn
+acq
+acq
+livestock l-cattle hog
+wheat corn grain soybean oilseed
+interest
+ship
+acq
+acq
+interest money-fx
+acq
+acq
+oilseed wheat corn grain
+money-supply
+acq
+crude
+acq
+corn grain
+acq
+acq
+heat sugar coffee cocoa
+grain
+grain
+acq
+wheat grain
+orange
+potato
+hog livestock carcass
+palm-oil veg-oil
+acq
+gold
+wheat grain
+barley grain
+gold
+ship
+corn wheat grain
+crude
+acq
+wheat grain
+wheat grain
+acq
+corn grain
+dlr money-fx bop trade
+livestock
+acq
+livestock
+instal-debt
+crude
+earn
+earn
+acq
+ship
+money-supply
+ship
+gnp
+gnp
+instal-debt
+crude
+acq
+rice wheat corn grain
+earn
+interest money-fx
+interest
+acq
+crude
+interest
+acq
+acq
+interest
+acq
+acq
+acq
+trade
+earn
+acq
+earn
+acq
+ship grain
+acq
+crude
+grain
+acq
+acq
+acq
+acq
+acq
+corn wheat grain
+earn
+acq
+acq
+interest money-fx
+money-fx cpi gnp
+acq
+acq
+acq
+acq
+acq
+yen dlr money-fx
+trade
+earn
+yen dlr money-fx
+acq
+acq
+wheat corn grain
+sugar
+crude
+money-fx
+money-fx
+rubber
+ship
+trade
+money-fx
+rice wheat grain
+trade
+interest
+interest
+earn
+crude
+soybean oilseed
+copper lead zinc
+crude
+earn
+soybean oilseed
+acq
+strategic-metal
+strategic-metal
+money-fx
+earn
+earn
+soybean oilseed
+earn
+iron-steel
+jobs
+ship
+earn
+earn
+acq
+earn
+earn
+money-fx
+money-fx
+earn
+bop
+crude
+earn
+acq
+sugar
+money-fx interest
+strategic-metal earn
+palm-oil veg-oil
+interest
+earn
+crude
+crude
+sugar
+bop trade
+money-fx
+earn
+crude
+jobs
+interest money-supply
+money-fx
+interest
+crude
+lei
+trade yen money-fx
+money-fx
+interest
+money-fx
+earn
+interest
+trade
+coconut-oil palm-oil veg-oil soybean oilseed
+bop
+interest
+earn
+earn
+acq
+trade
+money-fx
+crude
+earn
+coffee
+earn
+crude
+earn
+acq
+earn
+acq
+crude
+ship
+acq
+silver gold
+earn
+sugar
+earn
+earn
+earn
+earn
+money-fx
+earn
+acq
+acq
+sugar
+acq
+crude
+reserves cpi money-fx trade
+crude
+livestock hog
+acq
+earn
+earn
+acq
+earn
+earn
+earn
+earn
+earn
+earn
+acq
+crude
+acq
+trade bop
+sugar
+money-fx
+earn copper
+trade bop
+sugar
+earn
+acq
+earn
+lei
+acq
+earn
+earn
+gold
+earn
+earn
+earn
+earn
+acq
+earn
+earn
+earn
+sugar
+lei
+earn
+acq
+silver gold
+earn
+earn
+earn
+acq
+acq
+reserves
+money-supply
+money-fx
+earn
+earn
+earn
+earn
+acq
+earn
+earn
+ship crude
+earn
+earn
+acq
+earn
+acq
+sugar trade
+money-fx
+earn
+earn
+earn
+earn
+sugar
+interest
+gold
+acq
+housing
+acq
+acq
+earn
+jobs
+acq
+housing
+earn
+housing
+money-fx
+earn
+earn
+money-fx
+wheat grain
+earn
+cotton
+earn
+acq
+earn
+earn
+acq
+acq
+rubber
+earn
+earn
+earn
+earn
+nat-gas
+acq
+acq
+earn
+interest
+earn
+earn
+earn
+acq
+earn
+alum
+trade
+earn
+earn
+earn
+acq
+earn
+acq
+earn
+earn
+earn
+earn
+earn
+earn
+earn
+acq
+acq
+sugar
+gold
+acq
+ship
+acq
+nat-gas crude
+earn
+gnp
+earn
+earn
+earn
+earn
+earn
+earn
+acq
+interest
+acq
+acq
+ship
+earn
+acq
+gnp
+acq
+earn
+earn
+crude
+earn
+corn grain
+earn
+earn
+earn
+corn grain gas
+acq
+earn
+earn
+earn
+silver zinc copper
+acq
+earn
+earn
+silver acq
+ship crude
+acq
+earn
+earn
+acq
+earn
+earn
+acq
+earn
+corn grain
+earn
+earn
+oilseed
+acq
+earn
+orange
+earn
+earn
+earn
+wheat grain
+housing
+earn
+earn
+earn
+livestock carcass
+trade
+earn
+wheat grain
+earn
+crude acq
+earn
+earn
+acq
+acq
+wheat grain
+acq
+earn
+acq
+earn
+acq
+earn
+acq
+sugar
+acq
+money-supply
+trade
+acq
+acq
+earn
+acq
+lumber
+earn
+earn
+acq
+corn grain
+barley corn wheat grain
+rape-oil sun-oil veg-oil
+earn
+earn
+earn
+ship coffee
+alum
+earn
+crude
+earn
+acq
+acq
+acq
+earn
+acq
+earn
+ship
+crude
+earn
+oilseed soybean corn grain
+acq
+crude
+oilseed sunseed sorghum corn grain
+interest
+acq
+acq
+crude
+earn
+earn
+acq
+acq
+acq
+earn
+crude fuel gas
+earn
+gold
+acq
+earn
+acq
+earn
+ipi retail interest
+acq
+earn
+earn
+earn
+iron-steel nat-gas crude
+earn
+coffee
+earn
+livestock carcass
+earn
+earn
+trade
+trade
+crude
+earn
+trade
+acq
+acq
+veg-oil
+jobs
+money-fx
+crude
+earn
+rapeseed oilseed
+crude
+acq
+bop
+corn grain
+trade
+iron-steel ship
+earn
+ship
+acq
+pet-chem
+acq
+cotton
+wheat grain
+gold acq
+earn
+ship
+reserves
+coffee
+acq
+earn
+gold
+earn
+acq
+earn
+coffee
+earn
+earn
+soybean oilseed
+sugar wheat grain
+trade bop
+acq
+gnp
+earn
+sunseed soybean rapeseed oilseed
+trade
+earn
+earn
+money-fx
+earn
+earn
+interest money-fx
+jobs
+earn
+reserves money-fx
+earn
+sugar
+earn
+earn
+sugar
+earn
+earn
+earn
+livestock carcass
+cotton
+earn
+earn
+acq
+interest money-fx
+earn
+reserves
+trade
+trade
+sugar
+earn
+tin
+earn
+crude
+acq
+crude
+interest money-fx
+earn
+orange soybean oilseed rice corn grain
+acq
+palm-oil veg-oil
+money-fx
+earn
+earn
+earn
+earn
+acq
+acq
+coffee cocoa
+acq
+earn
+retail
+retail
+acq
+earn
+trade
+earn
+trade acq
+acq
+reserves
+earn
+acq
+nat-gas crude
+acq
+gnp
+acq
+earn
+oat grain
+money-fx
+crude ship
+trade
+retail
+crude
+earn
+earn
+earn
+earn
+acq
+acq
+earn
+earn
+interest money-fx
+earn
+earn
+earn
+earn
+veg-oil
+coffee
+earn
+acq
+ship wheat grain
+acq
+earn
+livestock hog
+ship acq
+earn
+acq
+iron-steel
+earn
+earn
+earn
+earn
+earn
+earn
+acq
+earn
+acq
+earn
+cotton
+nat-gas crude earn
+acq
+acq
+acq
+trade
+earn
+acq
+earn
+earn
+earn
+crude
+acq
+dlr wheat grain
+earn
+retail
+earn
+earn
+trade
+earn
+earn
+coffee
+earn
+interest money-fx
+earn
+acq
+wheat grain
+earn
+barley grain
+acq
+acq
+acq
+earn
+earn
+earn
+corn grain
+retail
+copper earn
+earn
+money-fx
+corn barley wheat grain
+gnp
+interest money-fx
+acq
+earn
+acq
+earn
+palm-oil veg-oil
+jobs
+earn
+acq
+earn
+rice grain
+crude acq
+earn
+acq
+earn
+ship
+earn
+earn
+crude
+earn
+earn
+acq
+crude
+earn
+acq
+earn
+ship
+earn
+earn
+coffee
+earn
+earn
+earn
+wheat grain
+earn
+earn
+acq
+acq
+earn
+earn
+earn
+crude
+bop
+acq crude
+acq
+earn
+acq
+earn
+earn
+earn
+earn
+earn
+earn
+wheat corn grain
+earn
+earn
+crude
+earn
+earn
+earn
+earn
+soybean oilseed
+earn
+earn
+earn
+ship acq
+acq
+acq
+earn
+rubber
+gold
+acq
+interest
+acq
+earn
+acq
+earn
+earn
+acq
+earn
+crude
+crude
+l-cattle livestock
+copper
+earn
+acq
+veg-oil
+earn
+earn
+earn
+retail
+earn
+crude
+earn
+acq
+interest
+earn
+earn
+crude
+earn
+interest
+earn
+interest
+earn
+earn
+crude
+acq
+crude
+nat-gas crude
+earn
+acq
+cocoa
+earn
+wheat grain
+crude
+earn
+earn
+acq
+wheat grain
+platinum acq gold
+trade
+crude
+interest
+interest
+cpi
+money-supply
+acq
+earn
+soybean oilseed corn wheat grain
+acq
+earn
+earn
+interest
+acq
+ipi
+livestock carcass
+earn
+earn
+gas
+trade
+acq
+rapeseed oilseed
+trade
+livestock carcass
+money-supply
+money-supply
+earn
+acq
+money-supply
+earn
+earn
+grain
+crude
+money-supply
+money-supply
+money-supply
+acq
+acq
+orange
+money-supply
+reserves cpi gnp
+rice cotton soybean oilseed wheat grain
+earn
+earn
+trade
+earn
+cpi
+crude
+earn
+earn
+earn
+livestock l-cattle
+nat-gas crude
+cpi gnp
+earn
+crude
+livestock carcass
+crude
+acq
+earn
+earn
+crude
+earn
+acq
+crude
+nat-gas crude
+acq
+acq
+crude
+trade
+soybean oilseed corn wheat grain
+sugar
+crude
+interest money-supply
+coffee
+crude
+acq
+acq
+crude
+earn
+earn
+earn
+acq
+dlr money-fx
+ship
+earn
+earn
+acq
+acq
+gnp
+bop trade
+sugar
+carcass livestock
+trade
+yen money-fx
+wpi
+trade
+carcass livestock
+grain
+trade
+earn
+ship
+wpi
+earn
+gold
+earn
+palm-oil veg-oil
+earn
+trade
+interest
+earn
+crude
+acq
+earn
+wpi
+crude
+crude
+acq
+money-fx
+acq
+wheat grain
+yen dlr money-fx
+rice grain
+cotton
+yen money-fx
+palm-oil veg-oil
+interest money-fx
+money-supply
+earn
+crude
+acq
+earn
+earn
+earn
+wheat grain
+alum
+jobs
+trade
+earn
+jobs
+yen money-fx
+gold
+yen money-fx
+ship
+money-fx
+crude
+crude
+trade
+grain rice
+interest money-fx
+earn
+acq earn
+earn
+acq
+ship
+ship
+acq
+ship
+cpi
+crude
+wpi
+wpi
+earn
+earn
+acq
+interest money-fx
+earn
+earn
+earn
+acq
+earn
+acq
+interest
+earn
+money-fx
+nickel
+ipi
+ipi
+acq
+earn
+acq
+earn
+earn
+earn
+grain ship
+earn
+acq
+earn
+ship
+earn
+interest money-fx
+coffee
+wpi
+earn
+earn
+earn
+earn
+earn
+earn
+earn
+acq
+reserves
+earn
+earn
+earn
+earn
+earn
+acq
+acq
+money-fx
+earn
+acq
+earn
+gold
+acq
+earn
+earn
+earn
+interest money-fx
+rubber
+corn grain
+earn
+money-fx
+earn
+crude
+ship
+hog livestock
+trade
+earn
+acq
+earn
+ship
+crude
+acq
+oilseed
+crude
+silver gold
+interest
+dlr money-fx
+acq
+acq
+acq
+crude
+acq
+earn
+acq
+acq
+sugar
+ship
+earn
+earn
+earn
+trade
+acq
+corn grain
+acq
+acq
+earn
+earn
+acq
+earn
+earn
+interest
+money-supply
+earn
+acq
+earn
+acq
+money-supply
+corn grain
+earn
+rubber
+wpi ipi gnp interest
+nat-gas crude
+acq
+ship crude
+earn
+acq
+earn
+acq
+acq
+earn
+crude nat-gas
+acq
+acq
+sugar
+acq
+acq
+earn
+earn
+acq
+acq
+acq
+crude
+trade
+corn grain
+earn
+earn
+ipi
+earn
+earn
+sorghum oat barley corn wheat grain
+earn
+acq
+coffee
+corn grain
+carcass livestock
+barley wheat corn grain
+earn
+earn
+earn
+corn grain
+earn
+crude
+acq
+earn
+earn
+carcass livestock
+corn grain
+earn
+wpi nat-gas gas crude
+acq
+cotton
+earn
+earn
+acq
+earn
+earn
+acq
+earn
+earn
+ipi
+earn
+earn
+earn
+wheat grain
+trade
+earn
+money-supply
+earn
+money-supply
+heat crude nat-gas gas wpi
+earn
+earn
+money-fx
+earn
+earn
+earn
+acq
+earn
+earn
+acq
+acq
+acq
+earn
+earn
+earn
+earn
+earn
+earn
+earn
+acq
+earn
+acq
+earn
+acq
+earn
+acq
+earn
+corn grain
+crude
+acq
+acq
+earn
+lumber
+crude acq
+acq
+crude
+crude
+earn
+acq
+crude
+crude
+earn
+interest
+earn
+earn
+lumber
+coffee
+rubber
+rubber
+earn
+acq
+soy-oil veg-oil
+gas cpi
+trade
+iron-steel
+alum
+crude pet-chem
+palm-oil veg-oil
+lead zinc iron-steel
+ship
+ship crude
+corn grain
+trade
+acq
+crude
+crude
+cocoa
+veg-oil trade
+earn
+crude
+earn
+sugar
+money-fx
+acq
+ipi
+ship
+reserves money-fx
+money-fx
+corn grain
+earn
+trade bop
+interest money-fx
+money-fx
+ship
+cocoa
+money-fx reserves
+cpi
+rubber
+ipi
+money-fx
+acq
+yen money-fx
+retail
+gnp yen money-fx
+money-supply
+gold
+earn
+earn
+acq
+sugar
+jobs
+reserves
+palm-oil veg-oil
+earn
+interest money-fx
+trade
+earn
+money-fx
+acq
+earn
+cpi
+interest money-fx
+acq
+interest
+trade
+interest
+cpi
+earn
+ipi
+interest money-fx
+alum
+crude
+cpi
+iron-steel
+earn
+money-supply
+money-supply
+retail
+gold
+retail
+earn
+cocoa
+cpi
+earn
+rice grain
+crude
+money-fx
+crude
+gnp yen money-fx
+acq
+crude
+trade
+earn
+interest money-fx
+trade
+reserves money-fx
+earn
+trade money-fx
+crude
+earn
+acq
+veg-oil trade
+acq
+acq
+trade
+earn
+interest dlr money-fx
+acq
+ship palm-oil veg-oil
+acq
+earn
+earn
+earn
+acq
+earn
+earn
+earn
+acq
+acq
+earn
+acq
+earn
+earn
+earn
+earn
+palm-oil veg-oil
+earn
+earn
+cpi
+acq
+acq
+earn
+gold
+earn
+earn
+earn
+acq
+earn
+ship
+acq
+acq
+livestock hog
+coffee
+acq
+interest money-fx
+corn grain money-fx
+earn
+earn
+acq
+earn
+interest money-fx
+earn
+earn
+acq
+earn
+acq
+earn
+acq
+earn
+earn
+earn
+acq
+earn
+earn
+earn
+money-fx
+acq
+grain
+earn
+earn
+trade
+acq
+cpi
+trade
+earn
+cpi
+acq
+earn
+cocoa
+wheat grain
+earn
+cpu
+cpi
+earn
+earn
+soybean veg-oil oilseed
+jobs
+money-fx
+acq
+acq
+livestock
+earn
+interest money-fx
+earn
+grain
+acq
+earn
+earn
+acq
+money-fx
+earn
+earn
+earn
+earn
+pet-chem
+earn
+earn
+earn
+earn
+crude
+earn
+money-fx
+copper acq
+earn
+earn
+interest money-fx
+nat-gas
+earn
+acq
+acq
+earn
+earn
+livestock carcass
+gnp
+acq
+earn
+earn
+gnp
+earn
+acq
+earn
+gnp trade
+earn
+cpu
+earn
+earn
+acq
+corn barley sorghum cotton corn wheat grain
+acq
+acq
+earn
+coffee
+gnp
+earn
+earn
+earn
+trade
+acq
+earn
+gold
+earn
+cpu
+livestock carcass
+cpi
+cocoa
+earn
+earn
+earn
+earn
+trade
+ship
+acq
+earn
+earn
+earn
+acq
+veg-oil
+trade
+trade
+acq
+earn
+acq
+acq
+corn grain
+earn
+acq
+earn
+cpi
+earn
+gold
+earn
+acq
+earn
+soybean oilseed wheat corn grain
+earn
+acq
+earn
+earn
+earn
+earn
+earn
+gold
+crude ship trade
+earn
+earn
+earn
+earn
+earn
+earn
+ship crude
+bop
+earn
+earn
+gold
+acq
+trade
+earn
+gold
+earn
+earn
+gold
+earn
+earn
+coffee trade
+earn
+earn
+earn
+earn
+earn
+earn
+acq
+earn
+earn
+earn
+earn
+acq
+earn
+earn
+earn
+earn
+acq
+acq
+cocoa
+earn
+earn
+earn
+earn
+earn
+earn
+oilseed soybean corn wheat grain
+acq
+acq
+rice cotton sorghum barley oilseed soybean wheat corn grain
+grain
+acq
+earn
+coffee
+earn
+earn
+earn
+earn
+fuel crude ship
+earn
+acq
+veg-oil meal-feed
+sorghum corn wheat grain
+corn grain
+wheat grain
+barley grain
+acq
+acq
+earn
+earn
+wheat grain
+earn
+acq
+earn
+veg-oil
+earn
+earn
+acq
+earn
+acq
+earn
+earn
+acq
+acq
+acq
+earn
+acq
+acq
+acq
+acq
+earn
+earn
+earn
+earn
+earn
+fuel crude
+trade
+acq
+earn
+earn
+earn
+acq
+trade
+strategic-metal nickel acq
+earn
+corn grain
+earn
+oilseed soybean
+heat
+earn
+acq
+acq
+earn
+earn
+acq
+earn
+earn
+trade
+earn
+earn
+earn
+earn
+earn
+acq
+earn
+earn
+earn
+earn
+acq
+ship
+earn
+earn
+acq
+acq
+earn
+earn
+earn
+earn
+earn
+earn
+acq
+acq
+trade
+acq
+acq
+acq
+acq
+earn
+veg-oil oilseed
+acq
+bop
+bop
+reserves
+wpi
+wpi
+dlr money-fx
+interest money-fx trade bop
+acq
+money-supply
+gnp
+bop trade
+bop trade
+earn
+copper
+acq
+soy-oil veg-oil
+rubber
+nat-gas
+crude
+money-supply
+money-supply
+money-supply
+grain
+gnp
+gnp
+gnp
+gnp
+acq
+trade
+money-fx
+carcass livestock
+interest money-fx
+earn
+ship
+money-fx
+earn
+grain
+copper
+cpi
+oilseed
+sugar
+money-supply interest
+bop
+wpi
+money-fx reserves
+bop
+ipi
+grain corn
+ipi
+gnp
+trade
+crude trade ship
+acq
+money-fx
+interest money-fx
+crude ship
+alum
+ship
+acq
+acq
+acq
+gnp
+cocoa
+housing
+housing
+meal-feed
+copper
+acq
+earn
+trade
+carcass l-cattle livestock
+earn
+acq
+ship
+acq
+earn
+acq
+money-fx
+earn
+trade
+money-fx
+acq
+earn
+earn
+earn
+earn
+acq
+acq
+earn
+earn
+earn
+earn
+earn
+gold
+corn grain
+acq
+earn
+acq
+earn
+trade bop
+trade bop
+money-fx
+acq
+acq
+acq
+earn
+earn
+trade
+acq
+rubber
+gold
+earn
+trade
+earn
+earn
+earn
+earn
+grain
+trade
+acq
+acq
+earn
+acq
+gnp
+trade bop
+earn
+earn
+gnp
+acq
+earn
+earn
+earn
+money-fx
+wheat sorghum grain sunseed corn oilseed soybean sun-oil soy-oil lin-oil veg-oil
+housing
+acq
+earn
+wheat grain
+earn
+earn
+earn
+earn
+earn
+acq
+crude
+copper
+acq
+acq
+acq
+earn
+acq
+earn
+bop gnp
+earn
+earn
+earn
+interest money-fx
+interest money-fx
+earn
+earn
+earn
+earn
+earn
+acq
+veg-oil
+acq
+crude
+soybean veg-oil
+cotton
+acq
+housing
+acq
+acq
+acq
+earn
+earn
+earn
+wheat grain
+wheat grain
+acq
+money-fx
+earn
+acq
+crude
+earn
+acq
+interest
+acq
+acq
+earn
+acq
+acq
+earn
+acq
+earn
+earn
+earn
+earn
+money-fx dlr
+crude
+earn
+rice wheat grain
+earn
+soybean oilseed
+crude
+acq
+acq
+earn
+acq
+crude
+wheat grain
+cocoa
+earn
+earn
+earn
+acq
+money-fx
+earn
+corn grain
+earn
+earn
+earn
+rice wheat grain
+earn
+earn
+money-supply bop interest
+acq
+jobs ipi
+crude
+crude
+earn
+crude
+crude
+earn
+earn
+earn
+interest
+crude
+interest
+earn
+acq
+earn
+crude
+earn
+earn
+earn
+acq
+alum
+gnp interest housing
+earn
+acq
+crude
+earn
+earn
+earn
+crude
+wheat grain
+earn
+acq
+earn
+earn
+earn
+acq
+gold
+earn
+corn wheat grain
+earn
+acq
+acq
+earn
+earn
+earn
+earn
+earn
+earn
+corn grain
+corn wheat
+earn
+earn
+earn
+earn
+acq
+earn
+earn
+grain trade
+earn
+earn
+corn wheat grain
+crude
+soybean oilseed grain
+grain
+rice cotton corn carcass soybean oilseed grain
+earn
+earn
+earn
+earn
+acq
+acq
+acq
+earn
+earn
+acq
+earn
+earn
+earn
+earn
+crude
+earn
+wheat grain
+earn
+earn
+earn
+crude
+earn
+earn
+earn
+earn
+earn
+earn
+earn
+acq
+carcass
+earn
+earn
+earn
+wheat grain
+acq
+earn
+earn
+acq
+yen money-fx
+wheat grain
+acq
+earn
+palm-oil veg-oil
+palm-oil veg-oil
+acq
+earn
+crude
+earn
+interest
+interest
+earn
+palm-oil veg-oil
+earn
+earn
+yen money-fx
+earn
+interest money-fx
+acq
+interest
+interest
+interest
+interest
+acq
+interest
+wpi
+earn
+acq
+ipi
+earn
+acq
+gnp
+cpi
+corn grain
+money-fx
+interest
+interest money-fx
+earn
+interest money-fx
+acq
+crude ship
+cocoa
+cpi bop gnp trade interest
+cocoa
+acq
+cotton-oil sun-oil veg-oil
+crude
+cocoa
+gnp
+gnp
+earn
+earn
+coconut-oil veg-oil
+acq
+nat-gas
+interest money-fx
+gnp
+acq
+acq
+crude
+acq
+earn
+acq
+ship
+earn
+earn
+earn
+acq
+acq
+acq
+money-fx
+earn
+acq
+trade
+lead zinc
+interest money-fx
+interest
+earn
+earn
+earn
+earn
+earn
+earn
+earn
+earn
+acq
+bop trade
+earn
+earn
+earn
+acq
+earn
+earn
+earn
+acq
+earn
+earn
+interest
+sugar
+earn
+sugar
+acq
+earn
+l-cattle
+cocoa
+gnp
+earn
+earn
+acq
+acq
+acq
+earn
+earn
+acq
+earn
+earn
+earn
+earn
+earn
+earn
+acq
+earn
+silver
+earn
+earn
+earn
+earn
+earn
+earn
+acq
+earn
+earn
+money-fx interest
+earn
+earn
+earn
+palm-oil veg-oil naphtha iron-steel cotton trade
+acq
+acq
+earn
+earn
+ship
+earn
+interest money-fx
+alum
+earn
+earn
+earn
+earn
+acq
+silver
+earn
+pet-chem
+acq
+earn
+earn
+earn
+earn
+money-fx
+earn
+crude
+earn
+earn
+earn
+veg-oil corn grain
+earn
+ship corn grain
+earn
+earn
+earn
+trade gnp
+earn
+coffee
+bop trade
+earn
+crude
+earn
+earn
+jobs
+acq
+nat-gas crude
+earn
+earn
+earn
+earn
+acq
+money-supply
+earn
+gnp
+earn
+meal-feed
+barley grain
+earn
+acq
+coffee
+earn
+earn
+bop trade
+acq
+acq
+earn
+earn
+earn
+nat-gas
+ship crude
+earn
+acq
+acq
+nat-gas crude
+sugar
+gold
+acq
+nat-gas
+earn
+acq
+acq
+earn
+earn
+earn
+earn
+earn
+earn
+acq
+rubber
+earn
+earn
+earn
+acq
+earn
+earn
+earn
+earn
+earn
+acq
+acq
+acq
+earn
+acq
+earn
+earn
+acq
+earn
+acq
+earn
+earn
+acq
+earn
+nat-gas
+earn
+ship
+trade
+acq
+wheat grain
+earn
+nat-gas crude
+earn
+acq
+earn
+earn
+earn
+acq
+earn
+earn
+earn
+corn grain
+earn
+earn
+earn
+earn
+earn
+earn nat-gas crude
+earn
+wheat grain
+crude
+earn
+earn
+wheat grain
+earn
+trade
+gnp
+earn
+nat-gas crude
+earn
+earn
+earn
+interest
+earn
+acq
+ship
+earn
+earn
+earn
+earn
+earn
+earn
+earn
+earn
+earn
+earn
+earn
+earn
+acq
+acq
+acq
+earn
+crude
+earn
+earn
+fuel
+earn
+acq
+earn
+earn
+earn
+carcass
+acq
+acq
+earn
+acq
+acq
+earn
+earn
+acq
+earn
+acq
+acq
+acq
+acq
+earn
+earn
+jet
+earn
+earn
+gas
+earn
+sugar
+earn
+acq
+acq
+copper
+earn
+acq
+rubber
+earn
+earn
+acq
+acq
+acq
+earn
+earn
+earn
+earn
+earn
+earn
+earn
+earn
+trade
+acq
+earn
+gas crude
+gold
+acq
+acq
+earn
+nat-gas crude
+earn
+tin
+earn
+earn
+wheat grain
+acq
+acq
+acq
+acq
+earn
+soybean oilseed sunseed sorghum corn grain
+gas crude
+earn
+corn grain
+wheat grain
+soy-meal meal-feed oilseed soybean veg-oil
+earn
+wheat grain
+nat-gas crude
+soybean oilseed
+earn
+acq
+wheat grain
+earn
+coffee
+crude
+acq
+earn
+earn
+cpi
+interest
+trade
+copper
+acq
+acq
+earn
+acq
+earn
+tin
+sugar
+sugar
+corn wheat soybean grain oilseed
+ship
+gnp
+gnp
+acq
+nzdlr money-fx
+wheat grain
+earn
+jobs
+trade
+acq
+palm-oil veg-oil rubber bop trade
+retail
+gold
+gnp bop trade
+earn
+wheat grain
+acq
+trade
+cpi
+iron-steel
+earn
+gold
+money-supply
+earn
+wpi
+trade
+earn
+money-fx
+cpi
+reserves
+gold
+earn
+earn
+veg-oil
+soy-oil veg-oil
+zinc
+crude
+sugar
+earn
+earn
+earn
+earn
+earn
+jobs
+income
+income
+money-supply
+earn
+money-supply
+earn
+jobs
+trade
+money-supply
+jobs
+money-supply
+income
+earn
+money-fx
+gold
+acq
+money-fx
+money-supply
+acq
+acq
+interest
+gnp
+money-supply income money-fx
+soybean oilseed veg-oil
+acq
+crude
+acq
+rand money-fx
+acq
+acq
+bop
+earn
+reserves
+earn
+acq
+earn
+acq
+earn
+earn
+corn wheat grain
+earn
+earn
+acq
+earn
+crude
+acq
+earn
+jobs
+cocoa
+earn
+earn
+earn
+earn
+earn
+earn
+earn
+earn
+nat-gas crude
+money-fx
+earn
+earn
+trade
+gold
+acq
+acq
+earn
+acq
+earn
+crude
+income
+income
+earn
+money-fx
+livestock hog
+earn
+ship grain
+coffee
+earn
+earn
+acq
+acq
+acq
+earn
+earn
+retail
+ship
+acq
+earn
+earn
+coffee
+nickel
+earn
+retail
+acq
+earn
+earn
+trade
+acq
+earn
+acq
+earn
+coffee
+earn
+earn
+acq
+earn
+crude gas
+crude gas
+grain
+earn
+earn
+earn
+interest money-fx
+rice grain
+iron-steel
+gold
+earn
+acq
+nat-gas earn crude
+cpi
+trade
+earn
+earn
+reserves
+earn
+earn
+earn
+earn
+earn
+ship
+acq
+money-fx
+barley wheat corn grain
+money-fx interest
+earn
+earn
+earn
+corn wheat grain
+earn
+earn
+acq
+earn
+acq
+reserves
+gnp
+acq
+earn
+earn
+acq
+earn
+acq
+acq
+earn
+earn
+acq
+acq
+earn
+acq
+earn
+earn
+acq
+earn
+alum
+earn
+earn
+earn
+earn
+earn
+earn
+earn
+earn
+earn
+earn
+earn
+crude
+acq
+earn
+acq earn
+earn
+rubber
+acq
+sugar
+earn
+interest
+cocoa
+money-fx
+interest money-fx money-supply
+cpi
+acq
+earn
+lumber
+acq
+acq
+earn
+interest
+earn
+iron-steel
+wheat grain
+earn
+acq
+earn
+earn
+earn
+corn grain
+acq
+earn
+earn
+earn
+earn
+acq
+acq
+earn
+earn
+acq
+acq
+acq
+acq
+crude
+soybean oilseed
+orange
+earn
+earn
+acq
+acq
+earn
+earn
+coffee
+acq
+money-fx trade
+earn
+earn
+earn
+earn
+acq
+corn grain
+earn
+corn grain
+earn
+corn grain
+acq
+money-fx
+corn grain
+fuel jet naphtha heat
+earn
+earn
+earn
+coffee
+acq
+nat-gas
+acq
+earn
+earn
+money-supply
+wheat grain
+money-supply
+money-supply
+nat-gas crude
+earn
+money-supply
+money-supply
+earn
+money-supply
+money-fx
+earn
+earn
+acq
+money-supply
+earn
+earn
+earn
+earn
+earn
+earn
+retail
+earn
+acq
+pet-chem
+acq
+earn
+earn
+interest money-fx
+earn
+acq
+earn
+earn
+earn
+acq
+acq
+wheat grain
+earn
+earn
+acq
+earn
+trade
+acq
+earn
+acq
+earn
+acq
+earn
+earn
+acq
+earn
+acq
+earn
+crude
+acq
+earn
+interest money-supply
+coffee
+ship
+sugar
+acq
+earn
+earn
+sugar
+sugar
+earn
+soybean oilseed veg-oil
+earn
+earn
+earn
+earn
+earn
+trade
+crude
+crude
+trade
+tin
+ship
+bop trade
+interest money-fx
+acq
+coffee
+earn
+trade bop
+earn
+sugar tea wheat rice grain
+acq
+copper
+money-supply
+money-supply
+iron-steel
+acq
+interest money-fx
+earn
+interest money-fx
+interest
+meal-feed grain
+lumber
+money-fx
+sugar
+acq
+acq
+interest money-fx
+alum
+earn
+alum
+barley grain
+earn
+cpi
+gnp
+gnp
+cpi
+wpi
+money-supply interest money-fx
+cpi
+cpi
+tin
+acq
+acq
+interest money-fx
+money-supply
+trade
+alum
+acq
+acq
+acq
+ipi
+earn
+crude
+interest money-fx
+crude
+acq
+earn
+earn
+earn
+ipi
+veg-oil soybean oilseed
+trade
+acq
+money-fx trade
+gold
+earn
+trade
+bop trade
+earn
+acq
+earn
+acq
+interest
+crude
+acq
+cotton iron-steel trade
+acq
+ship
+trade
+acq
+silver gold
+earn
+acq
+interest money-fx
+earn
+acq
+bop trade
+money-fx
+acq
+acq
+gas
+acq
+earn
+money-supply
+earn
+acq
+acq
+acq
+earn
+earn
+crude
+earn
+earn
+earn
+acq
+earn
+earn
+acq
+money-supply
+soybean oilseed corn grain
+earn
+acq
+earn
+earn
+money-fx
+acq
+money-fx interest
+earn
+earn
+earn
+earn
+earn
+acq
+earn
+earn
+earn
+acq
+earn
+earn
+earn
+acq
+earn
+earn
+earn
+crude earn
+earn
+ipi
+earn
+acq
+acq
+earn
+earn
+earn
+earn
+earn
+earn
+earn
+interest money-fx
+acq
+earn
+money-supply
+earn
+interest money-fx
+trade
+acq
+earn
+strategic-metal gold zinc lead copper silver
+earn
+earn
+earn
+acq
+acq
+acq
+earn
+acq
+ship corn grain
+acq
+acq
+earn
+money-supply
+earn
+trade
+money-fx trade
+earn
+money-supply
+lead
+earn
+acq
+acq
+acq
+acq
+acq
+money-supply
+acq
+acq
+earn
+gold
+acq
+acq
+earn
+earn
+earn
+earn
+acq
+earn
+earn
+earn
+earn
+acq
+earn
+earn
+zinc lead
+earn
+earn
+acq
+earn
+earn
+earn
+crude gas
+acq
+earn
+earn
+acq earn
+rubber
+earn
+acq
+earn
+acq
+earn
+acq
+earn
+acq
+earn
+acq earn
+earn
+rubber
+earn
+earn
+earn
+tin
+earn
+earn
+earn
+earn
+earn
+earn
+earn
+coffee
+acq
+earn
+earn
+acq
+acq
+acq
+acq
+earn
+earn
+earn
+acq earn
+trade
+crude
+acq
+earn
+earn
+cotton corn rice grain
+earn
+orange
+livestock
+earn
+livestock
+acq earn
+acq
+copper
+acq
+corn wheat grain
+acq
+reserves
+earn
+acq
+earn
+corn grain
+earn
+earn
+money-fx
+meal-feed oilseed
+earn
+earn
+earn
+earn
+wheat grain
+earn
+ship acq
+ship
+livestock
+acq
+acq
+acq
+acq
+acq
+acq
+acq
+earn
+money-supply
+gas
+earn
+earn
+acq
+earn
+hog livestock
+money-supply
+acq
+acq
+gold
+earn
+earn
+earn
+acq
+acq
+earn
+acq
+money-supply
+copper
+earn
+earn
+acq
+veg-oil soybean oilseed wheat grain
+corn grain sugar
+earn
+earn
+livestock
+grain ship
+acq
+earn
+earn
+crude
+earn
+earn
+acq
+acq
+earn
+acq
+earn
+earn
+earn
+earn
+trade
+earn
+earn
+earn
+earn
+acq
+fuel nat-gas crude
+trade
+earn
+earn
+earn
+earn
+earn
+tin
+earn
+rubber
+ipi
+money-fx
+gold
+crude
+money-fx
+trade
+acq
+veg-oil
+earn
+pet-chem
+crude
+acq
+earn
+earn
+money-fx dlr
+money-fx
+money-supply
+nat-gas crude acq
+trade
+interest
+coffee
+trade
+nat-gas
+ship
+earn
+gnp
+coconut oilseed
+iron-steel
+acq
+crude
+cpi
+earn
+acq
+earn
+acq
+acq
+crude
+grain oilseed trade
+crude
+trade gnp interest
+interest
+trade
+soybean oilseed sorghum corn grain meal-feed
+trade
+interest
+interest money-fx
+interest money-fx
+palm-oil rubber coffee trade
+trade
+trade money-fx interest gnp
+earn
+veg-oil trade
+trade reserves
+ship rape-oil palm-oil veg-oil
+copper
+crude
+rice corn grain
+earn
+earn
+grain reserves cpi gnp
+corn grain acq
+crude
+interest money-fx
+earn
+earn
+gnp
+retail jobs trade gnp
+bop trade
+sugar
+earn
+lei
+wheat grain
+earn
+ipi
+interest money-fx
+interest
+trade
+ship crude
+trade dlr money-fx
+ipi
+coffee
+interest money-fx
+ship
+trade
+money-fx
+earn
+acq
+ship coffee
+acq
+acq
+rubber
+crude
+nat-gas crude
+cpi
+trade
+rapeseed oilseed barley grain
+ship
+acq
+earn
+earn
+acq
+earn
+acq
+earn
+acq
+acq
+earn
+earn
+earn
+money-fx
+earn
+trade
+trade
+earn
+ship
+interest money-fx
+trade
+earn
+earn
+acq
+barley corn grain
+earn
+acq
+earn
+acq
+earn
+earn
+oilseed wheat corn grain cotton trade
+earn
+earn
+acq
+earn
+earn
+acq
+acq crude
+earn
+gas heat propane
+earn
+earn
+acq
+earn
+earn
+earn
+acq
+interest money-fx
+earn
+money-supply
+earn
+money-fx
+sugar
+zinc
+money-fx
+earn
+earn
+earn
+earn
+earn
+oilseed grain ship
+earn
+earn
+cocoa
+acq
+soybean oilseed soy-oil veg-oil
+gold
+earn
+earn
+earn
+earn
+earn
+heat
+earn
+iron-steel
+interest
+interest
+gnp
+earn
+crude
+earn
+acq
+acq
+acq
+acq
+acq
+acq
+ipi
+earn
+earn
+acq
+acq
+earn
+acq
+acq
+grain
+earn
+acq
+earn
+money-supply
+earn
+earn
+acq
+earn
+acq
+corn grain
+interest
+crude
+crude
+acq
+earn
+earn
+rice cotton wheat grain
+tin
+tin
+coffee
+ship crude
+lumber
+earn
+earn
+earn
+tin
+acq
+acq
+trade gnp
+acq
+acq
+acq
+earn
+acq
+acq
+ship crude
+acq
+corn oilseed grain
+sorghum corn grain
+earn
+earn
+earn
+retail
+gnp
+earn
+earn
+earn
+earn
+acq
+acq
+earn
+crude
+earn
+earn
+earn
+earn
+earn
+earn
+earn
+acq
+earn
+earn
+crude
+acq
+acq
+earn
+acq
+earn
+earn
+earn
+acq
+acq
+earn
+acq
+earn
+acq
+crude ship
+acq
+earn
+earn
+earn
+soybean oilseed
+earn
+earn
+acq
+earn
+earn
+earn
+corn wheat grain
+acq
+earn
+earn
+acq
+acq
+earn
+acq
+earn
+soybean oilseed corn oat grain
+crude
+trade
+earn
+earn
+acq
+earn
+wheat grain
+earn acq
+earn
+money-fx
+earn
+acq
+earn
+ship
+acq
+acq
+carcass livestock
+earn
+money-fx
+earn
+earn
+earn
+earn
+dlr money-fx
+ipi
+money-fx
+money-fx
+money-fx
+earn
+dlr money-fx
+dlr money-fx
+trade
+earn
+coconut-oil veg-oil trade
+money-fx trade reserves
+crude
+trade
+earn
+crude earn
+trade
+rubber
+wheat grain
+money-fx
+crude
+money-fx
+trade
+earn
+earn
+crude
+earn
+earn
+grain
+earn
+acq
+earn
+acq
+acq
+earn
+dlr money-fx
+crude
+trade
+acq
+money-fx
+nat-gas crude earn
+earn
+trade
+money-supply
+trade
+rubber
+money-fx
+earn
+earn
+earn
+sugar
+grain
+dlr money-fx
+money-fx
+earn
+ipi
+trade
+trade
+dlr money-fx
+earn
+acq
+trade
+earn
+jobs
+money-fx
+trade ipi
+crude
+interest
+money-fx
+ship crude
+trade
+interest
+money-fx
+earn
+jobs
+sugar
+sugar
+acq
+grain
+ship
+acq
+acq
+acq
+trade
+wpi cpi
+ship
+trade
+earn
+lei
+retail
+earn
+acq
+livestock
+retail
+earn
+earn
+acq
+money-fx
+acq
+potato
+dlr money-fx
+earn
+acq
+dlr yen money-fx
+earn
+money-supply interest money-fx
+earn
+trade
+cpi
+money-fx
+crude
+acq
+earn
+earn
+earn
+acq
+dlr money-fx
+earn
+earn
+wheat grain
+earn
+earn
+earn
+livestock ship
+earn
+cpi trade gnp jobs retail
+trade
+acq
+crude ship
+coffee
+earn
+crude
+acq
+gold
+acq
+oat barley sorghum wheat cotton corn rice grain
+money-fx
+earn
+crude
+earn
+earn
+acq
+earn
+acq
+acq
+acq
+earn
+earn
+earn
+earn
+earn
+earn
+earn
+ship acq
+money-fx
+earn
+earn
+bop
+livestock carcass sugar grain
+interest
+earn
+earn
+earn
+nat-gas crude
+earn
+nat-gas crude
+acq
+nat-gas crude earn
+acq
+acq
+earn
+reserves
+earn
+acq
+crude
+acq
+earn
+rubber
+money-fx
+earn
+acq
+palm-oil veg-oil
+cocoa
+acq
+lead zinc silver gold acq
+acq
+crude ship
+gold
+earn
+earn
+earn
+earn
+earn
+earn
+earn
+earn
+earn
+earn
+alum
+zinc lead silver gold acq
+earn
+acq
+gas crude
+interest money-fx
+jobs
+earn
+earn
+earn
+grain
+earn
+earn
+earn
+bop
+ship earn
+coffee
+earn
+acq
+earn
+acq
+trade
+earn
+crude
+earn
+acq
+acq
+acq
+money-fx trade
+earn
+earn
+earn
+acq
+tin
+earn
+trade
+earn
+corn grain
+grain
+acq
+acq
+earn
+acq
+gold
+jobs
+coffee ship
+interest
+earn
+crude earn
+reserves
+cocoa
+acq
+gas crude earn
+earn
+earn
+earn
+bop
+earn
+pet-chem crude earn
+earn
+earn acq
+acq
+earn
+acq
+cocoa
+earn
+earn
+trade
+corn grain
+money-fx
+earn
+earn
+acq
+earn
+interest
+earn
+wheat corn grain
+earn
+acq
+earn
+acq
+earn
+earn
+interest
+earn
+money-fx trade
+interest
+acq
+interest
+iron-steel
+trade
+rice grain
+acq
+wheat grain
+dlr money-fx
+acq
+acq
+earn
+money-fx
+earn
+crude
+pet-chem
+acq
+earn
+acq earn
+gas crude
+acq
+earn
+acq
+earn
+acq
+acq
+earn
+earn
+trade
+earn
+dlr money-fx
+trade money-fx
+earn
+soybean oilseed corn grain
+acq
+livestock carcass hog trade
+dlr money-fx
+acq
+crude
+earn
+acq
+acq
+sugar
+earn
+earn
+earn
+acq
+trade
+nat-gas pet-chem
+dlr money-fx
+tin
+acq
+acq
+acq
+acq
+earn
+corn grain
+corn grain
+wheat grain
+earn
+acq
+nat-gas
+earn
+acq
+earn
+gold
+money-supply
+acq
+acq
+earn
+acq earn
+earn
+earn
+earn
+earn
+dlr money-fx
+dlr money-fx
+sugar
+earn
+dlr money-fx
+dlr money-fx
+interest money-fx
+money-fx
+money-fx
+reserves
+money-fx
+trade
+interest
+money-fx interest
+earn
+earn
+bop trade
+iron-steel
+acq
+yen money-fx
+money-fx
+acq
+rubber tea coffee
+crude
+acq
+earn
+earn
+earn
+earn
+dlr money-fx
+sugar
+interest money-fx
+cpi
+dlr money-fx
+money-fx
+trade
+acq
+earn
+earn
+money-supply
+crude
+earn
+earn
+trade
+earn
+earn
+gold
+earn
+sun-oil veg-oil
+trade
+copper silver
+gnp
+oilseed
+money-supply
+earn
+meal-feed
+earn
+rubber
+pet-chem
+iron-steel
+earn
+sugar
+crude
+alum earn
+acq
+yen dlr money-fx
+dlr money-fx
+money-fx interest
+money-fx
+money-fx
+earn
+money-fx
+yen dlr money-fx
+dlr money-fx
+earn
+earn
+acq
+earn
+earn
+acq
+earn
+earn
+earn
+acq
+trade
+earn
+earn
+acq
+acq
+trade
+earn
+acq
+crude
+earn
+acq
+acq
+money-fx interest
+earn
+interest money-fx
+earn
+acq
+coffee
+earn
+earn
+earn
+earn
+earn
+earn
+earn
+earn
+acq
+earn
+crude
+earn
+dlr money-fx
+acq
+earn
+acq
+earn
+acq
+cpi
+livestock
+crude
+cpi
+dlr money-fx
+acq
+money-fx
+earn
+crude
+earn
+acq
+sugar
+sugar
+earn
+trade
+earn
+earn
+earn
+ship
+trade
+earn
+acq
+acq
+alum
+orange tea
+earn
+earn
+acq
+earn
+earn
+earn
+rand
+earn
+acq
+earn
+corn grain
+acq
+platinum
+earn
+ship
+sugar
+earn
+earn
+ship
+acq
+money-fx interest
+ship sugar
+acq
+earn
+acq
+earn
+earn
+reserves
+earn
+earn
+earn
+sugar
+dlr money-fx
+earn
+alum earn
+acq
+acq
+earn
+earn
+earn
+earn
+acq
+acq
+sugar
+acq
+sugar
+earn
+money-supply
+money-supply
+earn
+earn
+grain trade
+earn
+acq
+acq
+acq
+earn
+earn
+trade
+earn
+money-fx interest
+earn
+acq
+earn
+earn
+earn
+earn
+earn
+interest money-fx
+acq
+acq
+cpi
+acq
+acq
+nat-gas crude
+earn
+earn
+palm-oil veg-oil
+earn
+acq
+earn
+crude
+crude
+cocoa
+gold
+acq
+earn
+earn
+acq
+corn grain sugar
+acq
+ship
+earn
+earn
+earn
+ship
+earn
+earn
+acq
+earn
+gold
+earn
+earn
+trade
+acq
+money-fx trade
+acq
+money-supply
+earn
+earn
+earn
+acq
+acq
+earn
+trade
+earn
+crude
+sunseed sorghum soybean oilseed corn grain
+earn
+acq
+crude
+interest money-fx
+earn
+earn
+trade
+money-fx
+money-fx
+acq
+acq
+earn
+acq
+earn
+earn
+jobs
+veg-oil
+earn
+iron-steel
+earn
+acq
+earn
+cocoa
+earn
+acq
+earn
+earn
+acq
+earn
+acq
+earn
+jet
+earn
+earn
+earn
+earn
+earn
+acq
+nat-gas crude
+hog livestock
+earn
+earn
+earn
+iron-steel trade
+acq
+earn
+earn
+acq
+acq
+trade
+trade
+ship
+earn
+earn
+acq
+acq
+earn
+earn
+earn
+earn
+gas crude
+housing
+soybean oilseed
+earn
+acq
+earn
+acq
+trade
+acq
+gas crude
+acq
+acq
+acq
+nat-gas crude
+acq
+earn
+acq
+acq
+earn
+nat-gas crude
+earn
+coffee
+interest money-fx
+trade
+acq
+corn grain
+acq
+earn
+crude
+interest
+acq
+earn
+earn
+coffee
+money-fx
+earn
+money-fx
+money-fx
+ship
+trade
+yen money-fx
+money-fx
+oilseed soybean sorghum rye oat corn wheat grain
+money-supply
+interest yen money-fx
+trade
+rice grain
+earn
+earn
+earn
+trade
+ship crude
+lei
+money-fx
+earn
+money-fx
+earn
+bop trade
+interest money-fx
+acq
+acq
+earn
+interest
+earn
+acq
+alum
+lei
+earn
+acq
+earn
+money-fx
+sugar
+bop
+trade
+trade bop
+trade jobs
+money-supply
+money-fx
+carcass livestock
+acq
+oilseed meal-feed veg-oil
+earn
+earn
+earn
+trade
+money-fx
+trade
+trade bop
+gnp
+coffee
+bop trade
+earn
+grain
+wheat grain
+trade
+acq
+acq
+money-fx
+wheat grain
+dlr money-fx
+money-fx interest bop trade
+reserves
+money-fx
+wheat grain
+trade
+money-fx
+gold
+earn
+ship crude
+earn
+jobs
+earn
+acq
+earn
+earn
+jobs
+acq
+earn
+bop trade
+earn
+acq
+bop trade
+reserves
+acq
+cpi
+earn
+earn
+cpi
+earn
+acq
+jobs
+bop trade
+earn
+earn
+earn
+interest
+acq
+trade
+money-fx interest bop trade
+crude trade
+acq
+acq
+money-fx
+money-fx
+gold
+interest money-fx
+money-fx
+acq
+earn
+earn
+earn
+dlr money-fx
+trade money-fx
+barley wheat corn grain
+gold
+acq
+earn
+earn
+dlr money-fx
+acq
+earn
+earn
+earn
+crude earn
+money-fx
+earn
+acq
+alum
+acq
+earn
+earn
+jobs trade
+money-supply
+earn
+earn
+cocoa
+earn
+reserves
+ship
+grain
+earn
+trade
+gas
+crude acq
+earn
+gas
+acq
+soybean oilseed
+acq
+money-fx
+acq
+acq
+earn
+acq
+acq
+earn
+veg-oil
+earn
+earn
+earn
+earn
+earn
+sugar
+acq
+interest
+yen dlr money-fx
+crude acq
+earn
+earn
+cocoa
+acq
+money-fx
+earn
+money-fx trade
+barley corn grain
+earn
+earn
+earn
+earn
+earn
+earn
+earn
+acq
+interest
+earn
+retail
+money-fx
+acq
+acq
+acq
+earn
+earn
+veg-oil
+acq
+earn
+interest
+corn grain
+interest money-fx
+earn
+earn
+earn
+earn

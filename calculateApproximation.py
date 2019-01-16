@@ -1,72 +1,151 @@
-from sklearn.svm import SVC
+from sklearn import svm, datasets
+import matplotlib.pyplot as plt
 import numpy as np
+from sklearn.svm import SVC
+import sklearn.preprocessing as preprocessing
 import os
 import math
 import time
-import matplotlib.pyplot as plt
 import string
-from nltk.corpus import reuters
-from nltk.tokenize import word_tokenize
-from sklearn import svm, datasets
+from approximationSSK import Ssk
 
-n = 5 #Length of each word
-lam = 0.5
-dict = {}
-features = 100
-
-def addDoc(doc, n):
-    for i in range(len(doc) - n + 1):
-        word = doc[i:i+n]
-        if word in dict:
-            dict[word] += 1
-        else:
-            dict[word] = 1
-
-amount = 100 #Number of the most common words to be kept
-
-testCats = 'C:/MLprojekt/SSK/reuters/reuters/testCats.txt'
-trainingCats = open('C:/MLprojekt/SSK/reuters/reuters/trainingCats.txt')
-trainingPath = 'C:/MLprojekt/SSK/reuters/FirstUpdatedTraining'  # path for training set
-testPath = 'C:/MLprojekt/SSK/reuters/reuters/FirstUpdatedTest'  # path for test set
+category = 'corn'
+category2 = 'gold'
+testCatsPath = 'C:/MLprojekt/SSK/reuters/reuters/testCats.txt'
+trainingCatsPath = 'C:/MLprojekt/SSK/reuters/reuters/trainingCats.txt'
+trainingPath = 'C:/MLprojekt/SSK/reuters/reuters/'+category+'Training'  # path for training set
+testPath = 'C:/MLprojekt/SSK/reuters/reuters/'+category+'Test'  # path for test set
+trainingPath2 = 'C:/MLprojekt/SSK/reuters/reuters/'+category2+'Training'  # path for training set
+testPath2 = 'C:/MLprojekt/SSK/reuters/reuters/'+category2+'Test'  # path for test set
 start = time.time()
 
-training = []
-test = []
-count = 1
-files = []
-for file in os.listdir(trainingPath):
-    files.append(file)
-    f = open(trainingPath+'/'+file, 'r')
-    training.append(addDoc(f.read(), n))
-    f.close()
-    print(amount - count , ' documents left')
-    if (count == amount):
-        break
-    else:
-        count += 1
+n = 5
+lam = 0.7
+commonWords = open('C:/MLprojekt/SSK/CommonWords.txt').read().split('\n')
+print(len(commonWords))
+trainingSize = 20
+testSize = 8
+count = 0
+ssk = Ssk(n, lam)
 
-file = trainingCats.read().split('\n')  #Used for fetching the categories 
-for i in range(amount):                 #corresponding to each of the training texts
-    for f in file:
-        temp = f.split(' ')
-        if (temp[0] == 'training/'+files[i]):
-            text = f.replace('training/'+files[i]+' ', '')
-            files[i] = text
+def getFiles(path, path2, amount, testSize):
 
-newDict = sorted(dict, key=dict.get, reverse=True)[:features]
+    print('fetching ', amount, ' files')
+    half, halfTest, count, testCount = amount/2, testSize/2, 0, 0
+    files, fileNames, categories, testSet, testNames, testCategories = [], [], [], [], [], []
 
-os.remove('C:/MLprojekt/SSK/CommonWords.txt') #Remove old file
-new = open('C:/MLprojekt/SSK/CommonWords.txt', 'a') #Create new file
-for word in newDict: #Write the most common words to file
-    new.write(word)
-    new.write('\n')
-new.close()
+    for file in os.listdir(path):
+        if (count == half):
+            if (testCount == halfTest):
+                break
+            else:
+                testCount += 1
+                testNames.append(file)
+                f = open(path+'/'+file, 'r')
+                testSet.append(f.read())
+                f.close()
+                testCategories.append(category)
+        else:
+            count += 1
+            fileNames.append(file)
+            f = open(path+'/'+file, 'r')
+            files.append(f.read())
+            f.close()
+            categories.append(category)
+            #print(amount - count , ' documents left')
+            
+    for file in os.listdir(path2):
+        if (count == amount):
+            if (testCount == testSize):
+                break
+            else:
+                testCount += 1
+                testNames.append(file)
+                f = open(path2+'/'+file, 'r')
+                testSet.append(f.read())
+                f.close()
+                testCategories.append(category2)
+        else:
+            count += 1
+            fileNames.append(file)
+            f = open(path2+'/'+file, 'r')
+            files.append(f.read())
+            f.close()
+            categories.append(category2)
+            #print(amount - count , ' documents left')
 
-os.remove('C:/MLprojekt/SSK/CommonWordsCategories.txt')
-new = open('C:/MLprojekt/SSK/CommonWordsCategories.txt', 'a')
-for file in files: #Write the categories of the most common words to file
-    new.write(file)
-    new.write('\n')
-new.close
+    return files, fileNames, categories, testSet, testCategories
 
-print('Collection done!')
+def getCategories(path, fileNames):
+    text = open(path, 'r')
+    file = text.read().split('\n')  #Used for fetching the categories 
+    for i in range(len(fileNames)):       #corresponding to each of the training texts
+        for f in file:
+            temp = f.split(' ')
+            if (temp[0] == 'training/'+fileNames[i]):
+                text = f.replace('training/'+fileNames[i]+' ', '')
+                fileNames[i] = text
+                break
+    
+    return fileNames
+
+def preCalculateSSK(dataSet, words):
+
+    print('Initiating kernel calculations')
+    sskCal = np.zeros((len(dataSet), len(words)))
+    for i in range(len(dataSet)):
+        for j in range(len(words)):
+            sskCal[i][j] = ssk.kernel(dataSet[i], words[j])
+
+    return sskCal
+
+def calculateGram(dataSet, dataSet2):
+
+    gram = np.zeros((len(dataSet), len(dataSet2)))
+    for i in range(len(dataSet)):
+        for j in range(len(dataSet2)):
+            value = 0
+            for k in range(len(dataSet[0])):
+                value += dataSet[i][k] * dataSet2[j][k]
+            gram[i][j] = value    
+    
+    normalizedGram = np.zeros((len(dataSet), len(dataSet2)))
+    for i in range(len(dataSet)):
+        for j in range(len(dataSet)):
+            normalizedGram[i][j] = gram[i][j]/math.sqrt(gram[i][i]*gram[j][j])
+
+    return normalizedGram
+
+trainingSet, trainingFileNames, trainingCats, testSet, testCategories = getFiles(trainingPath, trainingPath2, trainingSize, testSize)
+preTraining = preCalculateSSK(trainingSet, commonWords)
+preTest = preCalculateSSK(testSet, commonWords)
+trainingGram = calculateGram(preTraining, preTraining)
+testGram = calculateGram(preTest, preTraining)
+
+for i in range(len(testGram)):
+    for j in range(len(testGram)):
+        print(testGram[i][j])
+    print('-----------')
+
+labels = np.array(trainingCats).reshape(-1)
+encoder = preprocessing.LabelEncoder()
+encoder.fit(labels)
+labels = encoder.transform(labels)
+
+model = svm.SVC(kernel='precomputed')
+model.fit(trainingGram, labels)
+predictions = model.predict(testGram)
+print(predictions)
+
+testLabels = np.array(testCategories)
+encoder = preprocessing.LabelEncoder()
+encoder.fit(testLabels)
+testLabels = encoder.transform(testLabels)
+
+countNumberOfRights = 0
+for i in range(len(testLabels)):
+	if(predictions[i] == testLabels[i]):
+		countNumberOfRights += 1
+
+print("right:", countNumberOfRights/len(testLabels))
+print('---------- ', time.time() - start, ' -----------')

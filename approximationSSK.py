@@ -88,8 +88,8 @@ class Ssk:
 a = "catat"
 b = "life is science"
 
-test = Ssk(n, lam)
-print(test.kernel(s, t, 100))
+#test = Ssk(n, lam)
+#print(test.kernel(s, t, 100))
 #print(test.k(s, t, test.n)/(math.sqrt(test.k(s, s, test.n)*test.k(t, t, test.n))))
 #print(test.k(a, b, test.n)/(math.sqrt(test.k(a, a, test.n)*test.k(b, b, test.n))))
-print("----- %s seconds -----" % (time.time() - start))
+#print("----- %s seconds -----" % (time.time() - start))

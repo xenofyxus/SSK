@@ -19,6 +19,9 @@ class Ssk:
         self.n = n
         self.lam = lam
 
+    def kernel(self, s, t):
+        return self.k(s, t, self.n)
+    
     def k(self, s, t, i):
 
         if (s, t, i) in self.dict1:

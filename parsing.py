@@ -12,7 +12,7 @@ stopwords = open('C:/MLprojekt/SSK/reuters/reuters/stopwords',
 # path for our new folder with parsed test data
 #newTestPath = 'C:/MLprojekt/SSK/reuters/reuters/updatedTest'
 
-category = 'gold'
+category = 'wheat'
 
 value = 1
 hashtable = {'key': 'value'}
@@ -46,14 +46,14 @@ docs = reuters.fileids(categories=[category])
 count = 0
 docAmount = len(docs)
 
-for doc in docs:
-    trainingPath = 'C:/MLprojekt/SSK/reuters/reuters/'+category+'Training'
-    testPath = 'C:/MLprojekt/SSK/reuters/reuters/'+category+'Test'
-    if (not os.path.exists(trainingPath)):
-        os.makedirs(trainingPath)
-    if (not os.path.exists(testPath)):
-        os.makedirs(testPath)
+trainingPath = 'C:/MLprojekt/SSK/reuters/reuters/'+category+'Training'
+testPath = 'C:/MLprojekt/SSK/reuters/reuters/'+category+'Test'
+if (not os.path.exists(trainingPath)):
+    os.makedirs(trainingPath)
+if (not os.path.exists(testPath)):
+    os.makedirs(testPath)
         
+for doc in docs:
     count += 1
     if (doc.find('test') != -1):
         name = doc.replace('test/', '')
