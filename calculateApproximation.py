@@ -119,7 +119,10 @@ def calculateGram(dataSet, dataSet2):
     #print('normalizing, length: ', len(dataSet), ' ', len(dataSet2))
     for i in range(len(dataSet)):
         for j in range(len(dataSet)):
-            gram[i][j] = gram[i][j]/math.sqrt(gram[i][i]*gram[j][j])
+            if(gram[i][i] == 0 or gram[j][j] == 0):
+                gram[i][j] = 0
+            else:
+                gram[i][j] = gram[i][j]/math.sqrt(gram[i][i]*gram[j][j])
 
     return gram
 
