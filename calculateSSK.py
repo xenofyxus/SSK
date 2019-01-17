@@ -7,7 +7,7 @@ import time
 from SSKModified import Ssk
 
 category = 'corn' #Test andra kategorier
-category2 = 'gold'  #testa andra kategorier
+category2 = 'sugar'  #testa andra kategorier
 testCatsPath = 'C:/MLprojekt/SSK/reuters/reuters/testCats.txt'
 trainingCatsPath = 'C:/MLprojekt/SSK/reuters/reuters/trainingCats.txt'
 trainingPath = 'C:/MLprojekt/SSK/reuters/reuters/'+category+'Training'  # path for training set
@@ -19,9 +19,9 @@ start = time.time()
 n = 5
 lam = 0.5
 trainingSize = 10   #Dessa bör tweakas i olika test
-testSize = 4        #Dessa bör tweakas i olika test
+testSize = 4       #Dessa bör tweakas i olika test
 count = 0           
-ssk = Ssk(n, lam, 0.01) #0.01 är vår egen variabel
+ssk = Ssk(n, lam, 0.05) #0.01 är vår egen variabel
 
 def getFiles(path, path2, amount, testSize):
 
@@ -105,7 +105,10 @@ def calculateGram(dataSet, dataSet2):
     normalizedGram = np.zeros((len(dataSet), len(dataSet2)))
     for i in range(len(dataSet)):
         for j in range(len(dataSet)):
-            normalizedGram[i][j] = gram[i][j]/math.sqrt(gram[i][i]*gram[j][j])
+            if(gram[i][i] == 0 or gram[j][j] == 0): #Check to make sure division not by zero
+                normalizedGram[i][j] = 0
+            else:
+                normalizedGram[i][j] = gram[i][j]/math.sqrt(gram[i][i]*gram[j][j]) 
 
     return normalizedGram
 
